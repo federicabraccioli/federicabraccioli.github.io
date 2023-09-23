@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Federica Braccioli - Home"
+title: "Federica Braccioli"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

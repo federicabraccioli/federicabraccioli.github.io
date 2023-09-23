@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Federica Braccioli"
-description              : &description "Postdoc"
+description              : &description "Postdoctoral Researcher"
 url                      : https://federicabraccioli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "federicabraccioli.github.io"
@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Federica Braccioli"
   avatar           : "Braccioli.jpeg"
-  bio              : "Postdoctoral Research Fellow in Economics"
-  location         : "IAE-CSIC and 
-  Barcelona School of Economics"
+  bio              : "Postdoctoral Researcher in Economics"
+  location         : "IAE-CSIC and BSE"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

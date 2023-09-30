@@ -9,12 +9,12 @@ redirect_from:
 
 **[Young Economist Award](https://www.eeassoc.org/awards/young-economist-award)** <br />
 **European Economic Association Annual Congress 2023**  <br />
-with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*
+with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*  <br />
 Amount: 2'000€  
 
 **Mobility Grants in Projects** <br />
 [Swiss National Science Foundation](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)  <br />
-Academic year: *2021-2022*
+Academic year: *2021-2022*  <br />
 Amount: 6’500CHF  
 
 **Best Teaching Assistant Award** <br />

@@ -9,7 +9,7 @@ redirect_from:
 
 🔴 **UPCOMING** <br />
 *2023/10/06* - [21st Trobada Barcelona School of Economics](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
-*2023/12/11* - International Economic Association World Congress (Bogotá, Colombia) - cancelled due to conflict with JM interviews' schedule
+*2023/12/11* - International Economic Association World Congress (Bogotá, Colombia) - cancelled due to conflict with JM
 
 # PAST
 **2023** <br />

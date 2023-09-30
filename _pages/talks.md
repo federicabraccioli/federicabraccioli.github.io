@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 🔴 **UPCOMING** <br />
-*2023/10/06* - 21st Trobada - Barcelona School of Economics
+*2023/10/06* 21st Trobada - Barcelona School of Economics <br />
+*2023/12/11* International Economic Association World Congress (Bogotá, Colombia) - cancelled due to conflict with JM interviews' schedule
 
 # PAST
 **2023** <br />
-International Economic Association World Congress (Bogotá, Colombia) <br />
-*21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Spring Young Economist Meeting (Torino, Italy) <br />
 European Economic Association Annual Congress (Barcelona, Spain) <br />
@@ -32,7 +31,7 @@ IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 
 **2021** <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
-*Brown Bag Seminar (Bern, Switzerland) <br />
+Brown Bag Seminar (Bern, Switzerland) <br />
 1st Rare Voices in Economics Conference (Geneva, Switzerland) <br />
 Reading Group Political and Development Economics (Lausanne, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />

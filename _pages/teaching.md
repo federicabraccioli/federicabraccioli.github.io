@@ -14,20 +14,20 @@ Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps
 Language: English and French
 
 **Introduction to Macroeconomics B.A.** <br />
-Academic year: GSEM-GSI University of Geneva <br />
-*2017-2018, 2018-2019, 2019-2020* <br />
+GSEM-GSI University of Geneva <br />
+Academic years:  *2017-2018, 2018-2019, 2019-2020* <br />
 Instructors: [Federica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
 Language: French
 
 **Introduction to International Economics B.A.** <br />
-Academic year: GSEM-GSI University of Geneva <br />
-*2017-2018, 2020-2021* <br />
+GSEM-GSI University of Geneva <br />
+Academic years: *2017-2018, 2020-2021* <br />
 Instructors: [Nicolas Maystre](https://nicolas.maystre.ch/welcome-on-nicolas-maystres-webpage/personal-details) <br />
 Language: French
 
 **Introduction to Microeconomics B.A.** <br />
-Academic year: GSEM-GSI University of Geneva <br />
-*2017-2018* <br />
+GSEM-GSI University of Geneva <br />
+Academic year: *2017-2018* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French
 

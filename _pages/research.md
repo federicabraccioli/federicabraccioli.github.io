@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 ## "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" [JMP] 
-draft available soon <br />
-🔴 WINNER: Young Economist Award - European Economic Association Annual Congress 2023</span>
+🔴 **WINNER: Young Economist Award - European Economic Association Annual Congress 2023** [link](https://www.eeassoc.org/awards/young-economist-award) <br />
+draft available soon 
 
 # Work in Progress 
 [1] "**The Persistence of the Sicilian Mafia**" <br />

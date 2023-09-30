@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" [JMP] <br />
+## "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" [JMP] 
 draft available soon
 
 # Work in Progress 

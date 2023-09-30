@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Service"
-permalink: /service/
+title: "Other"
+permalink: /other/
 author_profile: true
 redirect_from:
   - /resume

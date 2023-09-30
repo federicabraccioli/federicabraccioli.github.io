@@ -2,27 +2,4 @@
 main:
   - title: "CV"
     url: /cv/
-    
-  - title: "Research"
-    url: /research/
 
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "References"
-    url: /References/ 
-    
-   - title: "Grants&Awards"
-    url: /grants-awards/ 
-
-  - title: "Upcoming Talks"
-    url: /talks/         
-        
-  - title: "Rare Voices"
-    url: /rare-voices/
-
-  - title: "Service"
-    url: /service/
-
-  - title: "Photo Gallery"
-    url: /photo/

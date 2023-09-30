@@ -12,8 +12,8 @@ redirect_from:
 with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*  <br />
 Amount: 2'000€  
 
-**Mobility Grants in Projects** <br />
-[Swiss National Science Foundation](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)  <br />
+**[Mobility Grants in Projects](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)** <br />
+Swiss National Science Foundation  <br />
 Academic year: *2021-2022*  <br />
 Amount: 6’500CHF  
 

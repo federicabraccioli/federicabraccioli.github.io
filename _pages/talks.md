@@ -21,7 +21,7 @@ Women in Political Economy Workshop (Stockholm, Sweden) <br />
 13th International Workshop on Applied Education Economics (Catanzaro, Italy) <br />
 Royal Economic Society Ph.D. Conference (Glasgow, United Kingdom) <br />
 Canadian Economics Association Annual Conference (online) <br /> 
-*Department of Economics Seminar (Verona, Italy)
+Department of Economics Seminar (Verona, Italy)
 
 **2022** <br />
 VPDE 15th Ph.D. Workshop in Economics (Torino, Italy) <br />

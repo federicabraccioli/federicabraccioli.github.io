@@ -16,17 +16,11 @@ main:
   - title: "Rare Voices"
     url: /rare-voices/
 
-  - title: "Other"
-    url: /other/
-
  - title: "References"
     url: /references/
 
   - title: "CV"
     url: /cv/
-
-  - title: "Gallery"
-    url: /gallery/
 
 
 

@@ -36,7 +36,7 @@ Language: French
 University of Geneva <br />
 Academic year: *2022-23* <br />
 NOTE: Financing a replacement, the [award](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
-[![Watch the video]([https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://mediaserver.unige.ch/play/176648))
+[![Watch the video](https://mediaserver.unige.ch/play/176648))]
 [VIDEO](https://mediaserver.unige.ch/play/176648)
 
 **Best Teaching Assistant Award** <br />

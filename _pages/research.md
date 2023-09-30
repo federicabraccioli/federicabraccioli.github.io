@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**[JMP]** "**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not**"
+**[JMP]** "**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not**" //
 draft available soon
 
 # Work in Progress 
@@ -19,5 +19,5 @@ draft available upon request
 joint with Paolo Ghinetti, Simone Moriconi, Costanza Naguib, Michele Pellizzari
 draft available upon request
 
-[3] "** Productivity, Jobs and Wages **"
+[3] "**Productivity, Jobs and Wages**"
 joint with Costanza Naguib, Michele Pellizzari, Davide Pietrobon

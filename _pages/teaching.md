@@ -14,7 +14,7 @@ Language: English and French
 
 **Introduction to Macroeconomics B.A.** - University of Geneva <br />
 *2017-2018, 2018-2019, 2019-2020* <br />
-Instructors: [Fedreica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
+Instructors: [Federica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
 Language: French
 
 **Introduction to International Economics B.A.** - University of Geneva <br />

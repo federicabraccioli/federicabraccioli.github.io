@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-**Young Economist Award** - European Economic Association
+**(https://www.eeassoc.org/awards/young-economist-award): Young Economist Award - European Economic Association Annual Congress 2023** <br />
+with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*
 
 **Best Teaching Assistant Award** <br />
 IEE-GSEM University of Geneva <br />

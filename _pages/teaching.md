@@ -7,22 +7,22 @@ redirect_from:
   - /resume
 ---
 
-**Coordination for Introduction to Microeconomics B.A.** - University of Geneva <br />
+**Coordination for Introduction to Microeconomics B.A.** - GSEM-GSI University of Geneva <br />
 *2021-2022* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/), [Frédéric Robert-Nicoud](https://frobertnicoud.weebly.com/) <br />
 Language: English and French
 
-**Introduction to Macroeconomics B.A.** - University of Geneva <br />
+**Introduction to Macroeconomics B.A.** - GSEM-GSI University of Geneva <br />
 *2017-2018, 2018-2019, 2019-2020* <br />
 Instructors: [Federica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
 Language: French
 
-**Introduction to International Economics B.A.** - University of Geneva <br />
+**Introduction to International Economics B.A.** - GSEM-GSI University of Geneva <br />
 *2017-2018, 2020-2021* <br />
 Instructors: [Nicolas Maystre](https://nicolas.maystre.ch/welcome-on-nicolas-maystres-webpage/personal-details) <br />
 Language: French
 
-**Introduction to Microeconomics B.A.** - University of Geneva <br />
+**Introduction to Microeconomics B.A.** - GSEM-GSI University of Geneva <br />
 *2017-2018* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French
@@ -33,5 +33,5 @@ Language: French
 NOTE: Financing a replacement, the [award](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
 [VIDEO](https://mediaserver.unige.ch/play/176648)
 
-**Best Teaching Assistant Award** - University of Geneva <br />
+**Best Teaching Assistant Award** - IEE-GSEM University of Geneva <br />
 *2021*

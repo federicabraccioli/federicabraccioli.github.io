@@ -11,5 +11,5 @@ author_profile: true
 **Introduction to Macroeconomics** - *(University of Geneva)*
 2018-2019
 
-**Introduction to International Economics** - *(University of Milan)*
+**Introduction to International Economics** - *(University of Geneva)*
 2017-2018

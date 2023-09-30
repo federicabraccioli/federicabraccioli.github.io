@@ -32,3 +32,6 @@ Language: French
 *2022-23* <br />
 NOTE: Financing a replacement, the [award](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
 [VIDEO](https://mediaserver.unige.ch/play/176648)
+
+**Best Teaching Assistant Award** - University of Geneva <br />
+*2021*

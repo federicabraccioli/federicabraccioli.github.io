@@ -26,3 +26,9 @@ Language: French
 *2017-2018* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French
+
+## Teaching Grants & Awards
+**Subside Tremplin** - University of Geneva <br />
+*2022-23* <br />
+NOTE: Financing a replacement, the [award](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
+[VIDEO](https://mediaserver.unige.ch/play/176648)

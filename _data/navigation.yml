@@ -12,6 +12,12 @@ main:
   - title: "Grants&Awards"
     url: /grants-awards/
 
+  - title: "Rare Voices"
+    url: /rare-voices/
+
+  - title: "Service"
+    url: /service/
+
   - title: "References"
     url: /references/
 

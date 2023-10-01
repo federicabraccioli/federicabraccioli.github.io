@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 **Co-founder and co-president Rare Voices in Economics (RViE)** <br />
-former Women in Economics Léman *2019-2022* <br />
+former Women in Economics Léman <br />
+Years: *2019-2022* <br />
 
 **Presented RViE at (invited):** <br />
 - IEE Research Day (GSEM – University of Geneva) *2023* <br />

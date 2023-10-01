@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### IEE Ph.D. Mentoring Program
+### IEE Ph.D. Mentoring Program (University of Geneva)
 
 **Funder and co-organizer** <br />
 Academic years: 2020-2021, 2021-2022, 2022-2023 <br />

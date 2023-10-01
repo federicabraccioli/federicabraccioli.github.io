@@ -18,5 +18,5 @@ Mentees: Felipe Fausto *(2020-2021)* and Cecilia Carvalho *(2022-2023)*
 
 ### Women in Political Economy
 
-**Active Member**
+**Active Member** <br />
 More information about the initiative [here](https://sites.google.com/view/women-in-polecon/about). 

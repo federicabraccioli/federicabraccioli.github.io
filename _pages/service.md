@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### IEE Ph.D. Mentoring Program (University of Geneva)
+## IEE Ph.D. Mentoring Program (University of Geneva)
 
 **Funder and co-organizer** <br />
 Academic years: 2020-2021, 2021-2022, 2022-2023 <br />
@@ -16,7 +16,7 @@ During the Fall Semester of 2020, I founded the IEE Ph.D. Mentoring Program. Mot
 
 Mentees: Felipe Fausto *(2020-2021)* and Cecilia Carvalho *(2022-2023)*
 
-### Women in Political Economy
+## Women in Political Economy
 
 **Active Member** <br />
 More information about the initiative [here](https://sites.google.com/view/women-in-polecon/about). 

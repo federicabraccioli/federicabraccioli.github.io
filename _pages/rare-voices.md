@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Co-founder and co-president Rare Voices in Economics (RViE)** <br />
-- former Women in Economics Léman *2019-2022* <br />
+former Women in Economics Léman *2019-2022* <br />
 
 **Presented RViE at (invited):** <br />
 - IEE Research Day (GSEM – University of Geneva) *2023* <br />
@@ -24,15 +24,15 @@ Budget 20’000CHF <br />
 Sponsors: LIVES (University of Geneva); Geneva 2030 Ecosystem Micro Grant,Economics Department,Gender Centre, and
 Centre for Finance and Development(IHEID) <br />
 
-**Co-organizer, co-moderator public roundtable "Pathways for more Inclusive EconomicsDepartments"**
+**Co-organizer, co-moderator public roundtable "Pathways for more Inclusive EconomicsDepartments"** <br />
 Location: University of Geneva (Switzerland) <br />
 Date: 13 September 2021 <br />
 [VIDEO]
 
-**Co-organizer Women in Economics Workshops Series**
+**Co-organizer Women in Economics Workshops Series** <br />
 Date: Spring and Fall 2020 <br />
 Institutions: University of Geneva, The Geneva Graduate Institute, University of Lausanne (Switzerland)
 
-**Co-founder and co-organizer RViE Mentoring Program**
+**Co-founder and co-organizer RViE Mentoring Program** <br />
 Years: 2020-2021; 2022-2023 <br />
 Collaboration with the Royal Economic Society Consciously Inclusive Mentoring Program <br />

@@ -14,7 +14,7 @@ I am a Postdoctoral Researcher at the [Institute for Economic Analysis](https://
 
 **I am on the Job Market in 2023/24 for the first time.**
 
-**"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" [JMP]** <br />
+**[JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** <br />
 🔴: **[Young Economist Award - EEA 2023](https://www.eeassoc.org/awards/young-economist-award)** 
 
 

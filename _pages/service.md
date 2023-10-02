@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<br />
 ## IEE Ph.D. Mentoring Program (University of Geneva)
 
 **Funder and co-organizer** <br />
@@ -19,4 +19,5 @@ Mentees: Felipe Fausto *(2020-2021)* and Cecilia Carvalho *(2022-2023)*
 ## Women in POLitical ECONomy
 
 **Active Member** <br />
-More information about the initiative [<span style="color:blue">here</span>](https://sites.google.com/view/women-in-polecon/about). 
+More information about the initiative [<span style="color:blue">here</span>](https://sites.google.com/view/women-in-polecon/about). <br />
+

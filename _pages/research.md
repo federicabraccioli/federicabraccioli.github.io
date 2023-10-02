@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 <br />
-<br />
 # Job Market Paper
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** <br />
 🏆 **[WINNER](https://www.eeassoc.org/awards/young-economist-award): Young Economist Award - European Economic Association Annual Congress 2023** <br />

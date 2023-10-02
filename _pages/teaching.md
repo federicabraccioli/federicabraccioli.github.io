@@ -9,26 +9,26 @@ redirect_from:
 
 **Coordination for Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-*Fall 2021* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/), [Frédéric Robert-Nicoud](https://frobertnicoud.weebly.com/) <br />
+*Fall 2021* <br />
 Language: English and French
 
 **Introduction to Macroeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-*Spring 2018, Fall 2019, Spring 2019* <br />
 Instructors: [Federica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
+*Spring 2018, Fall 2019, Spring 2019* <br />
 Language: French
 
 **Introduction to International Economics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic years: *Spring 2018, Spring 2021* <br />
 Instructors: [Nicolas Maystre](https://nicolas.maystre.ch/welcome-on-nicolas-maystres-webpage/personal-details) <br />
+*Spring 2018, Spring 2021* <br />
 Language: French
 
 **Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic year: *Fall 2017* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
+*Fall 2017* <br />
 Language: French
 
 ## Teaching Grants & Awards

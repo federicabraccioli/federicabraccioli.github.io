@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 <br />
-<br />
 **Michele Pellizzari** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
 Email: <span class="email">michele.pellizzari@unige.ch</span> <br />

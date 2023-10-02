@@ -7,15 +7,18 @@ redirect_from:
   - /resume
 ---
 <br />
+<br />
 **Michele Pellizzari** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
 Email: <span class="email">michele.pellizzari@unige.ch</span> <br />
-Webpage: [<span style="color:blue">https://sites.google.com/site/mipellizzari/</span>](https://sites.google.com/site/mipellizzari/)
+Webpage: [<span style="color:blue">https://sites.google.com/site/mipellizzari/</span>](https://sites.google.com/site/mipellizzari/) <br />
+<br />
 <br />
 **Jérémy Laurent-Lucchetti** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
 Email: jeremy.lucchetti@unige.ch <br />
-Webpage: [<span style="color:blue">https://sites.google.com/site/jeremylaurentlucchetti/</span>](https://sites.google.com/site/jeremylaurentlucchetti/)
+Webpage: [<span style="color:blue">https://sites.google.com/site/jeremylaurentlucchetti/</span>](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
+<br />
 <br />
 **Enriqueta Aragonès** <br />
 IAE-CSIC and Barcelona School of Economics (Spain) <br />

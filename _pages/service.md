@@ -9,7 +9,7 @@ redirect_from:
 
 ## IEE Ph.D. Mentoring Program (University of Geneva)
 
-**Funder and co-organizer** <br />
+**Founder and co-organizer** <br />
 Academic years: *2020-2021, 2021-2022, 2022-2023* <br />
 
 During the Fall Semester of 2020, I founded the IEE Ph.D. Mentoring Program. Motivated by the negative shock COVID-19 had on our community, I wanted to create opportunities for new Ph.D. students to meet their seniors. I ran the program with [<span style="color:blue">Kyungbo Han</span>](https://sites.google.com/view/kyungbohan/) in 2021-2022. I have been an active mentor as well.  <br />

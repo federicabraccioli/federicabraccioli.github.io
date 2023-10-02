@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br />
+[<span style="color:blue">here</span>]
 # Job Market Paper
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** <br />
-🏆 **[WINNER](https://www.eeassoc.org/awards/young-economist-award): Young Economist Award - European Economic Association Annual Congress 2023** <br />
-[draft available soon](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
+🔵 **WINNER: [<span style="color:blue">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award) - European Economic Association Annual Congress 2023** <br />
+[<span style="color:blue">draft available soon</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
 <br />
 <br />
 <br />
@@ -19,8 +19,8 @@ redirect_from:
 draft available upon request
 
 **[2]** "**Education Expansion, College Choice and Labour Market Success**" <br />
-*joint with [Paolo Ghinetti](https://ideas.repec.org/e/pgh50.html), [Simone Moriconi](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [Costanza Naguib](https://costanzanaguib.wixsite.com/mysite), [Michele Pellizzari](https://sites.google.com/site/mipellizzari/home?authuser=0)* <br />
+*joint with [<span style="color:blue">Paolo Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:blue">Simone Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)* <br />
 draft available upon request
 
 **[3]** "**Productivity, Jobs and Wages**" <br />
-*joint with [Costanza Naguib](https://costanzanaguib.wixsite.com/mysite), [Michele Pellizzari](https://sites.google.com/site/mipellizzari/home?authuser=0), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/home)*
+*joint with [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0), [<span style="color:blue">Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/home)*

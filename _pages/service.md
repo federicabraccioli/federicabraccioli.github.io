@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br />
+
 ## IEE Ph.D. Mentoring Program (University of Geneva)
 
 **Funder and co-organizer** <br />

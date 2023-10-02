@@ -13,9 +13,9 @@ with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contract
 Amount: 2'000€  
 <br />
 **[<span style="color:blue">Mobility Grants in Projects</span>](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)** <br />
-Swiss National Science Foundation  <br />
-Academic year: *2021-2022*  <br />
-Amount: 6’500CHF  
+Swiss National Science Foundation <br />
+Academic year: *2021-2022* <br />
+Amount: 6’500CHF <br />
 <br />
 **Best Teaching Assistant Award** <br />
 IEE-GSEM University of Geneva <br />

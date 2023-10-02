@@ -43,9 +43,17 @@ Institutions: University of Geneva, The Geneva Graduate Institute, University of
 [7] [<span style="color:blue">The Impact of COVID-19 on the Gender Gap and vice versa. What question to ask?</span>](https://www.rarevoicesineconomics.com/post/chapter-7-the-impact-of-covid-19-on-the-gender-gap-and-vice-versa-what-question-to-ask) - invited speaker [<span style="color:blue">Prof. Julia Cajal Grossi</span>](https://www.graduateinstitute.ch/academic-departments/faculty/julia-cajal-grossi) (IHEID) <br />
 [8] [<span style="color:blue">Sexual harassment, consent, and positive female sexuality</span>](https://www.rarevoicesineconomics.com/post/chapter-8-sexual-harassment-consent-and-positive-female-sexuality) - invited speaker [<span style="color:blue">Prof. Eleonore Lepinard</span>](https://unil.academia.edu/EleonoreLepinard) (UniL) <br />
 
-**Co-founder and co-organizer RViE Mentoring Program** <br />
+**Co-founder and co-organizer RViE [Mentoring Program](https://www.rarevoicesineconomics.com/mentoring)** <br />
 Years: 2020-2021; 2022-2023 <br />
-Collaboration with the Royal Economic Society Consciously Inclusive Mentoring Program <br />
+Collaboration with the [<span style="color:blue">Royal Economic Society Consciously Inclusive Mentoring Program</span>]() <br />
+
+**Mentor for RViE [Mentoring Program](https://www.rarevoicesineconomics.com/mentoring)**
+Years: 2023-2024 <br />
+
+**Blog Posts** <br />
+CHAPTER 2. [<span style="color:blue">Leadership and glass ceilings in Economics.</span>](https://www.rarevoicesineconomics.com/post/2nd-workshop-leadership-and-glass-ceiling) <br />
+CHAPTER 5. [<span style="color:blue">Origins of gender stereotypes: is gendered behaviour only trained behaviour?</span>](https://www.rarevoicesineconomics.com/post/chapter-5-the-origins-of-gender-stereotypes-is-gendered-behaviour-only-trained-behaviour) <br />
+CHAPTER 7. [<span style="color:blue">The Impact of COVID-19 on the Gender Gap and vice versa. What question to ask?</span>](https://www.rarevoicesineconomics.com/post/chapter-7-the-impact-of-covid-19-on-the-gender-gap-and-vice-versa-what-question-to-ask) <br />
 
 # About Rare Voices in Economics <br />
 
@@ -53,8 +61,8 @@ Collaboration with the Royal Economic Society Consciously Inclusive Mentoring Pr
 We are Ph.D. students in Economics, some of us are “rare voices*”, and others are not. We all believe that our profession could do better both in terms of individual experience and productivity via better allocation of talents. Creating a safe space for diverse voices to express themselves can benefit everybody. Our mission is to keep this discussion open and advocate for change at the institutional level. <br />
 
 **WHAT WE DO** <br />
-*[1] Raising awareness and fostering an open exchange* through our workshops. We review relevant scientific papers and reflect during our occasional roundtables with experts in the field. <br />
-*[2] Leveling the playing field* through our [<span style="color:blue">mentoring program</span>](https://www.rarevoicesineconomics.com/mentoring) and theater workshops to empower PhD students in building networks and mastering challenging environments. <br />
-*[3] Promoting institutional change* via our [<span style="color:blue">guidelines</span>]() for more inclusive economics departments and regular participation to [<span style="color:blue">departments' public events</span>](https://www.rarevoicesineconomics.com/iee-research-day). <br />
-*[4] Creating a safe space for research* using our [<span style="color:blue">research clusters</span>](https://www.rarevoicesineconomics.com/research-clusters) and our annual [<span style="color:blue">Rare Voices in Economics conference</span>](https://www.rarevoicesineconomics.com/conference). During these events, we create secure and stimulating places to discuss research. <br />
+**[1] Raising awareness and fostering an open exchange** through our workshops. We review relevant scientific papers and reflect during our occasional roundtables with experts in the field. <br />
+**[2] Leveling the playing field** through our [<span style="color:blue">mentoring program</span>](https://www.rarevoicesineconomics.com/mentoring) and theater workshops to empower PhD students in building networks and mastering challenging environments. <br />
+**[3] Promoting institutional change** via our [<span style="color:blue">guidelines</span>]() for more inclusive economics departments and regular participation to [<span style="color:blue">departments' public events</span>](https://www.rarevoicesineconomics.com/iee-research-day). <br />
+**[4] Creating a safe space for research** using our [<span style="color:blue">research clusters</span>](https://www.rarevoicesineconomics.com/research-clusters) and our annual [<span style="color:blue">Rare Voices in Economics conference</span>](https://www.rarevoicesineconomics.com/conference). During these events, we create secure and stimulating places to discuss research. <br />
 

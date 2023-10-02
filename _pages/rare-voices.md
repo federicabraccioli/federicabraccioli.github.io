@@ -55,7 +55,7 @@ CHAPTER 2. [<span style="color:blue">Leadership and glass ceilings in Economics.
 CHAPTER 5. [<span style="color:blue">Origins of gender stereotypes: is gendered behaviour only trained behaviour?</span>](https://www.rarevoicesineconomics.com/post/chapter-5-the-origins-of-gender-stereotypes-is-gendered-behaviour-only-trained-behaviour) <br />
 CHAPTER 7. [<span style="color:blue">The Impact of COVID-19 on the Gender Gap and vice versa. What question to ask?</span>](https://www.rarevoicesineconomics.com/post/chapter-7-the-impact-of-covid-19-on-the-gender-gap-and-vice-versa-what-question-to-ask) <br />
 
-# About Rare Voices in Economics <br />
+# About RViE <br />
 
 **WHO WE ARE** <br />
 We are Ph.D. students in Economics, some of us are “rare voices*”, and others are not. We all believe that our profession could do better both in terms of individual experience and productivity via better allocation of talents. Creating a safe space for diverse voices to express themselves can benefit everybody. Our mission is to keep this discussion open and advocate for change at the institutional level. <br />

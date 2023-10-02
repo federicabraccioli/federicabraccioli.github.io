@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<br />
 **[<span style="color:blue">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />
 **European Economic Association Annual Congress 2023**  <br />
 with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*  <br />

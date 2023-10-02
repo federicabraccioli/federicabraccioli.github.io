@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[<span style="color:blue">here</span>]
+
 # Job Market Paper
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** <br />
-🔵 **WINNER: [<span style="color:blue">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award) - European Economic Association Annual Congress 2023** <br />
+🔴 **WINNER: [<span style="color:blue">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award) - European Economic Association Annual Congress 2023** <br />
 [<span style="color:blue">draft available soon</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
 <br />
 <br />

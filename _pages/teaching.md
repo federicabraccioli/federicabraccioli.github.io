@@ -15,7 +15,7 @@ Language: English and French
 
 **Introduction to Macroeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Instructors: [<span style="color:blue">Federica Sbergami</span>](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
+Instructor: [<span style="color:blue">Federica Sbergami</span>](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
 *Spring 2018, Fall 2019, Spring 2019* <br />
 Language: French
 
@@ -27,7 +27,7 @@ Language: French
 
 **Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Instructors: [<span style="color:blue">Giovanni Ferro-Luzzi</span>](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [<span style="color:blue">Jérémy Laurent-Lucchetti</span>](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
+Instructor: [<span style="color:blue">Giovanni Ferro-Luzzi</span>](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [<span style="color:blue">Jérémy Laurent-Lucchetti</span>](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 *Fall 2017* <br />
 Language: French
 
@@ -40,5 +40,5 @@ IEE-GSEM University of Geneva <br />
 University of Geneva <br />
 *Fall 2022* <br />
 NOTE: Financing a replacement, the [<span style="color:blue">award</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
-[![<span style="color:blue">VIDEO</span>](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648)
+[![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648)
 

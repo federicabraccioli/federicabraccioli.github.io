@@ -9,36 +9,36 @@ redirect_from:
 
 **Coordination for Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic year: *2021-2022* <br />
+*Fall 2021* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/), [Frédéric Robert-Nicoud](https://frobertnicoud.weebly.com/) <br />
 Language: English and French
 
 **Introduction to Macroeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic years:  *2017-2018, 2018-2019, 2019-2020* <br />
+*Spring 2018, Fall 2019, Spring 2019* <br />
 Instructors: [Federica Sbergami](https://www.unige.ch/gsem/en/research/faculty/all/federica-sbergami) <br />
 Language: French
 
 **Introduction to International Economics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic years: *2017-2018, 2020-2021* <br />
+Academic years: *Spring 2018, Spring 2021* <br />
 Instructors: [Nicolas Maystre](https://nicolas.maystre.ch/welcome-on-nicolas-maystres-webpage/personal-details) <br />
 Language: French
 
 **Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva <br />
-Academic year: *2017-2018* <br />
+Academic year: *Fall 2017* <br />
 Instructors: [Giovanni Ferro-Luzzi](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [Jérémy Laurent-Lucchetti](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French
 
 ## Teaching Grants & Awards
 **Best Teaching Assistant Award** <br />
 IEE-GSEM University of Geneva <br />
-Academic year: *2021-2022*
+*Fall 2021*
 
 **Subside Tremplin** <br />
 University of Geneva <br />
-Academic year: *2022-23* <br />
+*Fall 2022* <br />
 NOTE: Financing a replacement, the [award](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
 [![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648)
 

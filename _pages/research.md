@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<br />
 # Job Market Paper
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** <br />
 🔴 **WINNER: [<span style="color:blue">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award) - European Economic Association Annual Congress 2023** <br />
@@ -23,4 +23,4 @@ draft available upon request
 draft available upon request
 
 **[3]** "**Productivity, Jobs and Wages**" <br />
-*joint with [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0), [<span style="color:blue">Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/home)*
+*joint with [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0), [<span style="color:blue">Davide Pietrobon</span>](https://sites.google.com/view/davide-pietrobon/home)*

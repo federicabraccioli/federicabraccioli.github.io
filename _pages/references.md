@@ -9,8 +9,8 @@ redirect_from:
 
 **Michele Pellizzari** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
-Email: michele.pellizzari@unige.ch <br />
-Webpage: [<span style="color:blue">(https://sites.google.com/site/mipellizzari/)</span>](https://sites.google.com/site/mipellizzari/)
+Email: <span class="email">michele.pellizzari@unige.ch</span> <br />
+Webpage: [<span style="color:blue">https://sites.google.com/site/mipellizzari/</span>](https://sites.google.com/site/mipellizzari/)
 
 **Jérémy Laurent-Lucchetti** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />

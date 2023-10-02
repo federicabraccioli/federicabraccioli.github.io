@@ -16,7 +16,7 @@ During the Fall Semester of 2020, I founded the IEE Ph.D. Mentoring Program. Mot
 
 Mentees: Felipe Fausto *(2020-2021)* and Cecilia Carvalho *(2022-2023)*
 
-## Women in Political Economy
+## Women in POLitical ECONomy
 
 **Active Member** <br />
 More information about the initiative [<span style="color:blue">here</span>](https://sites.google.com/view/women-in-polecon/about). 

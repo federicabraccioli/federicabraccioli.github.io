@@ -19,7 +19,7 @@ Amount: 6’500CHF <br />
 <br />
 **Best Teaching Assistant Award** <br />
 IEE-GSEM University of Geneva <br />
-Academic year: *2021-2022*
+Academic year: *2021-2022* <br />
 <br />
 **[<span style="color:blue">Subside Tremplin</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/)** <br />
 University of Geneva <br />

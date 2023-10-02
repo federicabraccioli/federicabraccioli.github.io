@@ -45,7 +45,7 @@ Institutions: University of Geneva, The Geneva Graduate Institute, University of
 
 **Co-founder and co-organizer RViE [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)** <br />
 Years: 2020-2021; 2022-2023 <br />
-Collaboration with the [<span style="color:blue">Royal Economic Society Consciously Inclusive Mentoring Program</span>]() <br />
+Collaboration with the [<span style="color:blue">Royal Economic Society Consciously Inclusive Mentoring Program</span>](https://res.org.uk/committees/womens-committee/consciously-inclusive-mentoring/) <br />
 
 **Mentor for RViE [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)** <br />
 Years: 2023-2024 <br />
@@ -63,6 +63,6 @@ We are Ph.D. students in Economics, some of us are “rare voices*”, and other
 **WHAT WE DO** <br />
 **[1] Raising awareness and fostering an open exchange** through our workshops. We review relevant scientific papers and reflect during our occasional roundtables with experts in the field. <br />
 **[2] Leveling the playing field** through our [<span style="color:blue">mentoring program</span>](https://www.rarevoicesineconomics.com/mentoring) and theater workshops to empower PhD students in building networks and mastering challenging environments. <br />
-**[3] Promoting institutional change** via our [<span style="color:blue">guidelines</span>]() for more inclusive economics departments and regular participation to [<span style="color:blue">departments' public events</span>](https://www.rarevoicesineconomics.com/iee-research-day). <br />
+**[3] Promoting institutional change** via our [<span style="color:blue">guidelines</span>](https://www.rarevoicesineconomics.com/rvie-guidelines) for more inclusive economics departments and regular participation to [<span style="color:blue">departments' public events</span>](https://www.rarevoicesineconomics.com/iee-research-day). <br />
 **[4] Creating a safe space for research** using our [<span style="color:blue">research clusters</span>](https://www.rarevoicesineconomics.com/research-clusters) and our annual [<span style="color:blue">Rare Voices in Economics conference</span>](https://www.rarevoicesineconomics.com/conference). During these events, we create secure and stimulating places to discuss research. <br />
 

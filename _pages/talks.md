@@ -21,23 +21,23 @@ Women in Political Economy Workshop (Stockholm, Sweden) <br />
 13th International Workshop on Applied Education Economics (Catanzaro, Italy) <br />
 Royal Economic Society Ph.D. Conference (Glasgow, United Kingdom) <br />
 Canadian Economics Association Annual Conference (online) <br /> 
-🔹Department of Economics Seminar (Verona, Italy)
-
+🔹Department of Economics Seminar (Verona, Italy) <br />
+<br />
 **2022** <br />
 VPDE 15th Ph.D. Workshop in Economics (Torino, Italy) <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
 Rare Voices Research Cluster Political and Labor Economics (online) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
-
+<br />
 **2021** <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
 🔹Brown Bag Seminar (Bern, Switzerland) <br />
 1st Rare Voices in Economics Conference (Geneva, Switzerland) <br />
 Reading Group Political and Development Economics (Lausanne, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
-
+<br />
 **2020** <br />
 Ph.D. Workshop IHEID (Geneva, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland)  <br />
-
+<br />
 🔹invited

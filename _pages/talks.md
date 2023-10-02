@@ -40,4 +40,4 @@ IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Ph.D. Workshop IHEID (Geneva, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland)  <br />
 
-🔹 invited
+🔹invited

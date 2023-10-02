@@ -10,14 +10,14 @@ redirect_from:
 **Michele Pellizzari** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
 Email: michele.pellizzari@unige.ch <br />
-Webpage: [https://sites.google.com/site/mipellizzari/](https://sites.google.com/site/mipellizzari/)
+Webpage: [<span style="color:blue">(https://sites.google.com/site/mipellizzari/)</span>](https://sites.google.com/site/mipellizzari/)
 
 **Jérémy Laurent-Lucchetti** - advisor <br />
 IEE-GSEM University of Geneva (Switzerland) <br />
 Email: jeremy.lucchetti@unige.ch <br />
-Webpage: [https://sites.google.com/site/jeremylaurentlucchetti/](https://sites.google.com/site/jeremylaurentlucchetti/)
+Webpage: [<span style="color:blue">https://sites.google.com/site/jeremylaurentlucchetti/</span>](https://sites.google.com/site/jeremylaurentlucchetti/)
 
 **Enriqueta Aragonès** <br />
 IAE-CSIC and Barcelona School of Economics (Spain) <br />
 Email: enriqueta.aragones@iae.csic.es <br />
-Webpage: [http://aragones.iae-csic.org/](http://aragones.iae-csic.org/)
+Webpage: [<span style="color:blue">http://aragones.iae-csic.org/</span>](http://aragones.iae-csic.org/)

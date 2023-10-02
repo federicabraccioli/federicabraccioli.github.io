@@ -43,11 +43,11 @@ Institutions: University of Geneva, The Geneva Graduate Institute, University of
 [7] [<span style="color:blue">The Impact of COVID-19 on the Gender Gap and vice versa. What question to ask?</span>](https://www.rarevoicesineconomics.com/post/chapter-7-the-impact-of-covid-19-on-the-gender-gap-and-vice-versa-what-question-to-ask) - invited speaker [<span style="color:blue">Prof. Julia Cajal Grossi</span>](https://www.graduateinstitute.ch/academic-departments/faculty/julia-cajal-grossi) (IHEID) <br />
 [8] [<span style="color:blue">Sexual harassment, consent, and positive female sexuality</span>](https://www.rarevoicesineconomics.com/post/chapter-8-sexual-harassment-consent-and-positive-female-sexuality) - invited speaker [<span style="color:blue">Prof. Eleonore Lepinard</span>](https://unil.academia.edu/EleonoreLepinard) (UniL) <br />
 
-**Co-founder and co-organizer RViE [Mentoring Program](https://www.rarevoicesineconomics.com/mentoring)** <br />
+**Co-founder and co-organizer RViE [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)** <br />
 Years: 2020-2021; 2022-2023 <br />
 Collaboration with the [<span style="color:blue">Royal Economic Society Consciously Inclusive Mentoring Program</span>]() <br />
 
-**Mentor for RViE [Mentoring Program](https://www.rarevoicesineconomics.com/mentoring)**
+**Mentor for RViE [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)** <br />
 Years: 2023-2024 <br />
 
 **Blog Posts** <br />

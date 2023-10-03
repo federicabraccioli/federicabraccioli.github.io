@@ -6,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+use Embera\Embera;
+
+$embera = new Embera();
+echo $embera->autoEmbed('Hi! Have you seen this video? https://www.youtube.com/watch?v=J---aiyznGQ Its the best!');
+
 <iframe
   width="459"
   height="344"

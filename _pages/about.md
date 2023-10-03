@@ -26,6 +26,7 @@ I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](ht
 <br />
 <br />
 <br />
-**Email:** federica.braccioli@bse.eu <br />
-           federica.braccioli@iae.csic.es
+**Contact:** <br />
+federica.braccioli@bse.eu <br />
+federica.braccioli@iae.csic.es
 

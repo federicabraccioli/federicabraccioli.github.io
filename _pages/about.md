@@ -14,7 +14,7 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 **Research interests:** Political Economy, Labour Economics, Applied Economics
 <br />
 <br />
-**I am on the Job Market in 2023/24 for the first time.**
+**I am on the Job Market in 2023-2024 for the first time.**
 <br />
 <br />
 **[JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** 
@@ -22,5 +22,10 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 <br />
 <br />
 <br />
+I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:blue">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
 <br />
-I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:blue">here</span>](https://federicabraccioli.github.io/rare-voices/). 
+<br />
+<br />
+**Email:** federica.braccioli@bse.eu <br />
+           federica.braccioli@iae.csic.es
+

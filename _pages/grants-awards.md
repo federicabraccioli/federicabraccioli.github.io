@@ -23,7 +23,7 @@ Academic year: *2021-2022* <br />
 <br />
 **[<span style="color:blue">Subside Tremplin</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/)** <br />
 University of Geneva <br />
-Academic year: *2022-23* <br />
+Academic year: *2022-2023* <br />
 Description: Financing a replacement, the award releases its beneficiaries from teaching duties for one semester. <br />
 [![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648) 
 

@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648)
+[![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648)

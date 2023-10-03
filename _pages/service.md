@@ -16,10 +16,10 @@ During the Fall Semester of 2020, I founded the IEE Ph.D. Mentoring Program. Mot
 
 Mentees: Felipe Fausto *(2020-2021)* and Cecilia Carvalho *(2022-2023)*
 
-## RViE [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)
+## Rare Voices in Economics [<span style="color:blue">Mentoring Program</span>](https://www.rarevoicesineconomics.com/mentoring)
 
 **Active Mentor** <br />
-Years: 2023-2024 <br />
+Year: 2023-2024 <br />
 
 ## Women in POLitical ECONomy
 

@@ -8,8 +8,7 @@ redirect_from:
 ---
 <br />
 🔴 **UPCOMING** <br />
-*2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society <br />
-*2023/12/11* - International Economic Association World Congress (Bogotá, Colombia) - cancelled due to conflict with JM
+*2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />
 **2023** <br />

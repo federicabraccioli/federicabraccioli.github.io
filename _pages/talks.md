@@ -13,7 +13,7 @@ redirect_from:
 <br />
 <br />
 **2023** <br />
-[<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
+🔹[<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Spring Young Economist Meeting (Torino, Italy) <br />
 European Economic Association Annual Congress (Barcelona, Spain) <br />

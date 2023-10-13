@@ -8,11 +8,12 @@ redirect_from:
 ---
 <br />
 🔴 **UPCOMING** <br />
-*2023/10/06* - [<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
+*2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society
 *2023/12/11* - International Economic Association World Congress (Bogotá, Colombia) - cancelled due to conflict with JM
 <br />
 <br />
 **2023** <br />
+[<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Spring Young Economist Meeting (Torino, Italy) <br />
 European Economic Association Annual Congress (Barcelona, Spain) <br />

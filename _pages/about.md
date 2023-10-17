@@ -11,9 +11,9 @@ redirect_from:
 I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and the [<span style="color:blue">Barcelona School of Economics</span>](https://bse.eu/) (BSE), Spain. I received a Ph.D. in Economics from the [<span style="color:blue">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. 
 <br />
 <br />
-### Research interests: Political Economy, Labour Economics, Applied Economics
-### Contact: federica.braccioli@bse.eu 
-### CV: [<span style="color:blue">link</span>](https://federicabraccioli.github.io/files/Braccioli_CV.pdf)
+**Research interests: Political Economy, Labour Economics, Applied Economics**
+**Contact: federica.braccioli@bse.eu** 
+**[<span style="color:blue">CV</span>](https://federicabraccioli.github.io/files/Braccioli_CV.pdf)**
 <br />
 <br />
 ## I am on the Job Market in 2023-2024 for the first time.

@@ -8,6 +8,7 @@ redirect_from:
 ---
 <br />
 🔴 **UPCOMING** <br />
+*2023/10/25* - Applied Young Economist Webinar Political Economy Workshop (online) <br />
 *2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />

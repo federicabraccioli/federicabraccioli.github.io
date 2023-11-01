@@ -25,4 +25,4 @@ redirect_from:
 <br />
 # Work in Progress
 ## "Productivity, Jobs and Wages"
-<span style="color:blue">*joint with [Costanza Naguib](https://costanzanaguib.wixsite.com/mysite), [Michele Pellizzari](https://sites.google.com/site/mipellizzari/home?authuser=0), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/home)*</span>
+<span style="color:gray">*joint with [Costanza Naguib](https://costanzanaguib.wixsite.com/mysite), [Michele Pellizzari](https://sites.google.com/site/mipellizzari/home?authuser=0), [Davide Pietrobon](https://sites.google.com/view/davide-pietrobon/home)*</span>

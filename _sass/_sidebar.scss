@@ -72,8 +72,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
-  height: 36px;
+  width: 46px;
+  height: 46px;
 
   @include breakpoint($large) {
     display: block;
@@ -82,7 +82,7 @@
   }
 
   img {
-    min-width: 100px;
+    min-width: 220px;
     max-width: 220px;
     border-radius: 50%;
 

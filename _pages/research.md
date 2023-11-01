@@ -16,14 +16,12 @@ Italy has one of the slowest judicial systems in Europe. At the same time, there
 <br />
 ## Working Papers 
 **"The Persistence of the Sicilian Mafia"** ◾ Draft available upon request <br />
-<br />
 This paper documents the persistence of the presence of the Sicilian Mafia across centuries and provides evidence for one of the mechanisms at play: Mafia family power. Leveraging investigation reports containing Mafia surnames, I construct a new indicator of the presence of the Mafia and a measure of the turnover of families in power in 2014-2019. I find that the historical presence of the Mafia is responsible for at least 25% of the Mafia in 2019 and decreases short-term family turnover by 56%. <br />
 <br />
 **"Education Expansion, College Choice and Labour Market Success"** ◾ Draft available upon request <br />
-➖ *joint with [<span style="color:blue">Paolo Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:blue">Simone Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)* <br />
-<br />
+&emsp;&emsp; *joint with [<span style="color:blue">Paolo Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:blue">Simone Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)* <br />
 We study the choice of acquiring STEM or non-STEM college education using variation induced by the proximity to universities offering STEM and/or non-STEM degrees. We adopt a novel methodology allowing the identification of the distribution of response types and several counterfactual outcomes (Heckman and Pinto, 2018). The empirical analysis is based on confidential survey data for Italy, combined with administrative information about the founding dates of all Italian universities and faculties. We find that most compliers are at the margin of choosing STEM education versus not going to college. Response types at the margin of choosing STEM vs non-STEM education are a small minority in the population. We simulate the effects of some hypothetical reforms expanding the supply of colleges and we find sizeable impacts on employment, earnings and working conditions, particularly for women. <br />
 <br />
 ## Work in Progress
 **"Productivity, Jobs and Wages"** <br />
-➖ *joint with [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0), [<span style="color:blue">Davide Pietrobon</span>](https://sites.google.com/view/davide-pietrobon/home)*
+&emsp;&emsp; *joint with [<span style="color:blue">Costanza Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:blue">Michele Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0), [<span style="color:blue">Davide Pietrobon</span>](https://sites.google.com/view/davide-pietrobon/home)*

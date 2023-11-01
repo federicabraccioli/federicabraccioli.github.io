@@ -14,17 +14,15 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 <br />
 **I am on the Economic Job Market in 2023-2024.** <br />
 <br />
-## [JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" [<span style="color:blue">draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
-<details><summary>Abstract</summary>Italy has one of the slowest judicial systems in Europe. At the same time, there exists anecdotal evidence suggesting that informal contract enforcement can be provided by organized crime. I present a simple theoretical framework to explain why citizens may turn to the Mafia for contract enforcement when the State is increasingly unable to fulfil this service. I empirically test the main model prediction using a novel database of Mafia-controlled areas across Italy between 2014 and 2019. I obtain confidential yearly data from the Superior Council of the Judiciary about the judge’s retirement, which I use as a source of exogenous variation in the State’s enforcement capacity. Results indicate that the Mafia expands its control over the territory when the State weakens its contract enforcement capacity.
-<br/>
-</details>
-<br/>
-🔴 **WINNER: [<span style="color:blue">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />
+## [JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not" 
+🔴 **WINNER: [<span style="color:blue">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award)** - [<span style="color:blue">draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br /> 
+<details><summary>Abstract</summary>Italy has one of the slowest judicial systems in Europe. At the same time, there exists anecdotal evidence suggesting that informal contract enforcement can be provided by organized crime. I present a simple theoretical framework to explain why citizens may turn to the Mafia for contract enforcement when the State is increasingly unable to fulfil this service. I empirically test the main model prediction using a novel database of Mafia-controlled areas across Italy between 2014 and 2019. I obtain confidential yearly data from the Superior Council of the Judiciary about the judge’s retirement, which I use as a source of exogenous variation in the State’s enforcement capacity. Results indicate that the Mafia expands its control over the territory when the State weakens its contract enforcement capacity.</details>
 <br />
 <br />
 **Contact:** federica.braccioli@bse.eu <br />
 <br />
 <br />
+<br/>
 I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:blue">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
 <br />
 

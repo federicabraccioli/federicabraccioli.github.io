@@ -12,17 +12,14 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 <br />
 <br />
 **Research interests:** Political Economy, Labour Economics, Applied Economics<br />
-<br />
-<br />
 **I am on the 2023-2024 Economic Job Market.** <br />
+**Contact:** federica.braccioli@bse.eu <br />
 <br />
 ## Job Market Paper 
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"**  <br />
 ◾ <span style="color:red;">WINNER:</span> [<span style="color:red">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) ◾ [<span style="color:blue">Draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf)  <br />
 <br />
 <br />
-<br />
-**Contact:** federica.braccioli@bse.eu <br />
 <br />
 <br />
 <br/>

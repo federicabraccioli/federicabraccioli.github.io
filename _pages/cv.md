@@ -21,5 +21,5 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **Doctoral Program** – Study Center Gerzensee, Switzerland (2017-2018) <br />
 
 ### Pre-Doctoral Studies
-M.A. in Economics – University of Lausanne, Switzerland (2015-2017)  <br />
-B.A. in Economics of Financial Markets and Institutions – University of Rome Tor Vergata, Italy (2011-2015)  <br />
+**M.A. in Economics** – University of Lausanne, Switzerland (2015-2017)  <br />
+**B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, Italy (2011-2015)  <br />

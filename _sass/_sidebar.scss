@@ -56,7 +56,7 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 20);
+    margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
@@ -83,8 +83,7 @@
 
   img {
     min-width: 220px;
-    max-width: 220px;
-    border-radius: 50%;
+    max-width: 420px;
 
     @include breakpoint($large) {
       padding: 0px;

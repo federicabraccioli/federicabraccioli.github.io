@@ -17,7 +17,7 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 **I am on the Economic Job Market in 2023-2024.** <br />
 <br />
 <br />
-**[JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** ◼ [<span style="color:blue">Draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
+**[JMP] "The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"** ◾ [<span style="color:blue">Draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
 ◼️ <span style="color:red;">WINNER:</span> [<span style="color:red">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) <br />
 <br />
 <br />

@@ -11,7 +11,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 
 ## Short CV 
 
-### ⬛ Current Employment 
+### ⚫ Current Employment 
 **Affiliated Professor** - Barcelona School of Economics, Spain <br />
 **Postdoctoral Researcher** - Institute for Economic Analysis (CSIC), Spain  <br />
 

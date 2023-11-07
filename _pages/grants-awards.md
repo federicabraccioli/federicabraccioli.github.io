@@ -26,12 +26,7 @@ University of Geneva <br />
 Academic year: *2022-2023* <br />
 Description: Financing a replacement, the award releases its beneficiaries from teaching duties for one semester. <br />
 
-<video width="640" height="360" controls>
-  <source src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+<iframe src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4&width=1280&height=720&id=176648&start=0" width="1280" height="720" frameborder="0" allowfullscreen=1></iframe>
 
-
-// [![VIDEO](https://github.com/federicabraccioli/federicabraccioli.github.io/blob/master/images/tremplin_screen.png)](https://mediaserver.unige.ch/play/176648) 
 

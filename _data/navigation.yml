@@ -27,6 +27,4 @@ main:
   - title: "Media"
     url: /media/
 
- - <img src="{{ site.baseurl }}/images/IAE_logo.jpg" alt="Image Description">
-
  

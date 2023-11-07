@@ -27,6 +27,6 @@ Academic year: *2022-2023* <br />
 Description: Financing a replacement, the award releases its beneficiaries from teaching duties for one semester. <br />
 
 <div style="text-align: center;">
-  <iframe width="128" height="72" src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4&id=176648&start=0"></iframe>
+  <iframe width="427" height="240" src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4&id=176648&start=0"></iframe>
 </div>
 

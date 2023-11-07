@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br />
-# My work at RViE  ![Alt Text](/images/RViE.png){: width="20%" style="float: left;" } <br />
+# My work at RViE  ![Alt Text](/images/RViE.png){: width="20%" style="float: right;" } <br />
 **Co-founder and co-president [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/) (RViE)** <br />
 former Women in Economics Léman <br />
 Years: *2019-2022* <br />

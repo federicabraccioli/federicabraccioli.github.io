@@ -27,5 +27,7 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 <br/>
 I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:blue">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
 <br />
-![Alt Text](/images/bse_logo_large.png)
+<br />
+<br/>
+![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: left;" }
 

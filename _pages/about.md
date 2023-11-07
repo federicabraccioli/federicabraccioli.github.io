@@ -11,11 +11,11 @@ redirect_from:
 I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and the [<span style="color:blue">Barcelona School of Economics</span>](https://bse.eu/) (BSE), Spain. I received a Ph.D. in Economics from the [<span style="color:blue">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 <br />
 <br />
-**Contact:** federica.braccioli@bse.eu <br />
-<br />
 **I am on the Economic Job Market in 2023-2024 for the first time.** <br />
 <br />
 **Research interests:** Political Economy, Labour Economics, Applied Economics<br />
+<br />
+**Contact:** federica.braccioli@bse.eu <br />
 <br />
 ## Job Market Paper 
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"**  <br />

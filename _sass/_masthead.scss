@@ -29,12 +29,12 @@
       text-decoration: none;
     }
 
-    .institution-logo {
-      // Add styles for your institution's logo here
-      max-width: 10px; // Adjust the size as needed
-      // margin-top: 10px; // Add margin to control the logo's position
-      // Any other styles you want to apply to the logo
-    }
+    <style>
+     .logo {
+    width: 100px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+     }
+    </style>
   }
 }
 

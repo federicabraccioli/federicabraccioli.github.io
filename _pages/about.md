@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Alt Text](/images/bse_logo_large.png){: width="12%" style="float: right;" } ![Alt Text](/images/IAE_logo.jpg){: width="10%" style="float: right;" }
+![Alt Text](/images/IAE_logo.jpg){: width="20%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="15%" style="float: right;" } <br />
 I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and the [<span style="color:blue">Barcelona School of Economics</span>](https://bse.eu/) (BSE), Spain. I received a Ph.D. in Economics from the [<span style="color:blue">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 <br />
 <br />

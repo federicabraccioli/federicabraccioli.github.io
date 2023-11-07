@@ -14,12 +14,7 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    <header>
-      <a href="{{ site.baseurl }}/">
-       <img src="{{ site.baseurl }}/images/bse_logo_large.png" alt="Institution Logo" class="institution-logo">
-      </a>
-      {% include masthead.html %}
-    </header>
+    {% include masthead.html %}
 
     {{ content }}
 

@@ -28,6 +28,13 @@
     a {
       text-decoration: none;
     }
+
+    .institution-logo {
+      // Add styles for your institution's logo here
+      max-width: 100px; // Adjust the size as needed
+      margin-top: 10px; // Add margin to control the logo's position
+      // Any other styles you want to apply to the logo
+    }
   }
 }
 
@@ -50,10 +57,4 @@
     padding-right: 2em;
     font-weight: 700;
   }
-}
-
-.site-logo {
-  width: 10px;
-  height: 10px;
-  /* margin: 10px; /* Add margin to control the logo's position */
 }

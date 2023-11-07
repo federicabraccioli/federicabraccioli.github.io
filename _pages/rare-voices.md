@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "![Alt Text](/images/RViE.png){: width="40%" style="float: right;" } "
 permalink: /rare-voices/
 author_profile: true
 redirect_from:
   - /resume
 ---
 <br />
-![Alt Text](/images/RViE.png){: width="50%" style="float: right;" } <br />
 # My work at RViE <br />
 **Co-founder and co-president [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/) (RViE)** <br />
 former Women in Economics Léman <br />

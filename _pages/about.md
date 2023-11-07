@@ -13,7 +13,6 @@ I am a Postdoctoral Researcher at the [<span style="color:blue">Institute for Ec
 <br />
 **Contact:** federica.braccioli@bse.eu <br />
 <br />
-<br />
 **I am on the 2023-2024 Economic Job Market.** <br />
 <br />
 **Research interests:** Political Economy, Labour Economics, Applied Economics<br />

@@ -7,12 +7,14 @@ redirect_from:
   - /resume
 ---
 <br />
-🔴 **UPCOMING** (🔹invited) <br />
-*2023/10/25* - Applied Young Economist Webinar Political Economy Workshop (online) <br />
+🔴 **UPCOMING** <br />
+*2023/12/01* - UAB-IAE Internal Applied Seminar <br />
 *2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />
+**PAST** (🔹invited) <br />
 **2023** <br />
+Applied Young Economist Webinar Political Economy Workshop (online) <br />
 🔹[<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Spring Young Economist Meeting (Torino, Italy) <br />

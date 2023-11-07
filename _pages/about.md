@@ -29,5 +29,5 @@ I am co-founder of [<span style="color:blue">Rare Voices in Economics</span>](ht
 <br />
 <br />
 <br/>
-![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: left;" }
+![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } ![Alt Text](/images/IAE_logo.png){: width="30%" style="float: right;" }
 

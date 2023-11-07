@@ -12,6 +12,11 @@
   z-index: 20;
 
   &__inner-wrap {
+   .logo {
+    width: 1px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+     }
+     
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
@@ -29,10 +34,6 @@
       text-decoration: none;
     }    
   }
-    .logo {
-    width: 1px; /* Set the desired width */
-    height: auto; /* Maintain aspect ratio */
-     }
 }
 
 .masthead__menu {

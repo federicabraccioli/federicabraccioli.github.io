@@ -14,13 +14,12 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    // {% include masthead.html %}
+    {% include masthead.html %}
     <header class="site-header">
       <div class="container">
       <a class="site-title" href="{{ site.baseurl }}{{ site.homepage }}" title="{{ site.title }}">
         <img src="{{ site.baseurl }}/images/bse_logo_large.png" alt="Your Institution Logo" class="logo">
       </a>
-       <h1>{{ site.title | default: site.github.repository_name }}</h1>
      </div>
     </header>
     

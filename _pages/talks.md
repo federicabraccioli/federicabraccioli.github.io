@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br />
-🔴 **UPCOMING** <br />
+🔴 **UPCOMING** (🔹invited) <br />
 *2023/10/25* - Applied Young Economist Webinar Political Economy Workshop (online) <br />
 *2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
@@ -41,4 +41,3 @@ IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Ph.D. Workshop IHEID (Geneva, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland)  <br />
 <br />
-🔹invited

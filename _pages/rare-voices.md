@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "![Alt Text](/images/RViE.png){: width="40%" style="float: right;" } "
+title: ""
 permalink: /rare-voices/
 author_profile: true
 redirect_from:
   - /resume
 ---
+![Alt Text](/images/RViE.png){: width="30%" style="float: left;" } <br />
 <br />
 # My work at RViE <br />
 **Co-founder and co-president [<span style="color:blue">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/) (RViE)** <br />

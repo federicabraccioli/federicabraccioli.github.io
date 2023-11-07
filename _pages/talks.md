@@ -40,7 +40,7 @@ Gerzensee Alumni Conference (Bern, Switzerland) <br />
 Reading Group Political and Development Economics (Lausanne, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 <br />
-**2020** <br />
+◾**2020** <br />
 Ph.D. Workshop IHEID (Geneva, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland)  <br />
 <br />

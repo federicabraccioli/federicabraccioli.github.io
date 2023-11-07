@@ -12,9 +12,9 @@ former Women in Economics Léman <br />
 Years: *2019-2022* <br />
 
 ◾**Invited Presentation for RViE:** <br />
-[<span style="color:blue">IEE Research Day</span>](https://www.rarevoicesineconomics.com/iee-research-day) (GSEM – University of Geneva) *2023* - [<span style="color:blue">VIDEO</span>](https://www.youtube.com/watch?v=oIJvYm__y5w&t=12622s) <br />
-[<span style="color:blue">The Playing Field in Academia</span>](https://www.hhs.se/en/about-us/calendar/site-external-events/2023/the-playing-field-in-academia-why-are-women-still-underrepresented/) (Warsaw, Poland) *2023* <br />
-Royal Economic Society Annual Conference - [<span style="color:blue">Diversity & Inclusion Network</span>](https://res.org.uk/diversity-network/) (online) *2022* <br />
+[<span style="color:blue">IEE Research Day</span>](https://www.rarevoicesineconomics.com/iee-research-day) (GSEM – University of Geneva) *2023* <br />
+[<span style="color:blue">The Playing Field in Academia</span>](https://www.hhs.se/en/about-us/calendar/site-external-events/2023/the-playing-field-in-academia-why-are-women-still-underrepresented/) (Warsaw, Poland) *2023* - [<span style="color:blue">VIDEO</span>](https://www.youtube.com/watch?v=oIJvYm__y5w&t=12622s)<br />
+[<span style="color:blue">Diversity & Inclusion Network</span>](https://res.org.uk/diversity-network/) - Royal Economic Society Annual Conference (online) *2022* <br />
 [<span style="color:blue">Equality Committee</span>](https://www.unige.ch/gsem/en/about/governance-leadership/commissions/) (GSEM – University of Geneva) *2022* <br />
 [<span style="color:blue">Study Center Gerzensee</span>](https://szgerzensee.ch/) (Bern, Switzerland) *2022* <br />
 
@@ -25,7 +25,7 @@ Budget 20’000CHF <br />
 Sponsors: LIVES (University of Geneva); Geneva 2030 Ecosystem Micro Grant, Economics Department, Gender Centre, and
 Centre for Finance and Development(IHEID) <br />
 
-◾**Co-organizer and co-moderator of the public roundtable "Pathways for more Inclusive EconomicsDepartments"** <br />
+◾**Co-organizer and co-moderator of the public roundtable "Pathways for more Inclusive Economics Departments"** <br />
 Location: University of Geneva (Switzerland) <br />
 Date: 13 September 2021 <br />
 [<span style="color:blue">VIDEO</span>](https://www.youtube.com/watch?v=22nkk99a26s) [<span style="color:blue">Blog Post & Photo Gallery</span>](https://www.rarevoicesineconomics.com/post/roundtable-pathways-for-more-inclusive-economics-departments-what-works-and-what-doesn-t) <br />

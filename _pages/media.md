@@ -17,7 +17,7 @@ redirect_from:
 ## Subside Tremplin - UniGe 2022
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" <iframe src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4" frameborder="1" allowfullscreen=1></iframe>
+   <iframe src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4" frameborder="1" allowfullscreen=1></iframe>
 </div>
 
 <iframe src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4&width=1280&height=720&id=176648&start=0" width="1280" height="720" frameborder="1" allowfullscreen=1></iframe>

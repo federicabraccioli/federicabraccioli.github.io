@@ -10,20 +10,18 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     
-    <header class="site-header">
-      <div class="container">
-      <a class="site-title" href="{{ site.baseurl }}{{ site.homepage }}" title="{{ site.title }}">
-        <img src="{{ site.baseurl }}/images/bse_logo_large.png" alt="Your Institution Logo" class="logo">
-      </a>
-     </div>
-  </header>
-    
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    
+   <div class="header">
+      <a class="site-title" href="{{ site.baseurl }}{{ site.homepage }}" title="{{ site.title }}">
+        <img src="{{ site.baseurl }}/images/bse_logo_large.png" alt="Your Institution Logo" class="logo">
+      </a>
+     </div>
     
     {{ content }}
 

@@ -17,8 +17,8 @@ redirect_from:
 ## Subside Tremplin - UniGe 2022
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4id=176648&start=0"></iframe>
-</div>
+  <iframe width="1280" height="720" src="https://elearn-services.unige.ch/medias/share/video?url=https://mediaserver.unige.ch/proxy/176648/VN4-4b13-2021-2022-06-14-C.mp4id=176648&start=0"></iframe>
+</div> 
 
 ## Pathways for more Inclusive EconomicsDepartments - UniGe-IHEID 2021
 

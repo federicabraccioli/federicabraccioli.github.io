@@ -13,7 +13,8 @@ redirect_from:
 <br />
 <br />
 **PAST** (🔹invited) <br />
-**2023** <br />
+<br />
+◾**2023** <br />
 Applied Young Economist Webinar Political Economy Workshop (online) <br />
 🔹[<span style="color:blue">21st Trobada Barcelona School of Economics</span>](https://events.bse.eu/event/13455-21st-trobada-barcelona-school-of-economics) (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
@@ -26,13 +27,13 @@ Royal Economic Society Ph.D. Conference (Glasgow, United Kingdom) <br />
 Canadian Economics Association Annual Conference (online) <br /> 
 🔹Department of Economics Seminar (Verona, Italy) <br />
 <br />
-**2022** <br />
+◾**2022** <br />
 VPDE 15th Ph.D. Workshop in Economics (Torino, Italy) <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
 Rare Voices Research Cluster Political and Labor Economics (online) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 <br />
-**2021** <br />
+◾**2021** <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
 🔹Brown Bag Seminar (Bern, Switzerland) <br />
 1st Rare Voices in Economics Conference (Geneva, Switzerland) <br />

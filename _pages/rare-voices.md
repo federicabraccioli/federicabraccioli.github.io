@@ -28,6 +28,9 @@ Centre for Finance and Development(IHEID) <br />
 ◾**Co-organizer and co-moderator of the public roundtable "Pathways for more Inclusive EconomicsDepartments"** <br />
 Location: University of Geneva (Switzerland) <br />
 Date: 13 September 2021 <br />
+<div style="text-align: center;">
+  <iframe width="56" height="31" src="[https://www.example.com/your-video-embed-code"></iframe>](https://www.youtube.com/embed/22nkk99a26s?si=3KVPwOFqrX4gXFxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+</div>
 [<span style="color:blue">VIDEO</span>](https://www.youtube.com/watch?v=22nkk99a26s) [<span style="color:blue">Blog Post & Photo Gallery</span>](https://www.rarevoicesineconomics.com/post/roundtable-pathways-for-more-inclusive-economics-departments-what-works-and-what-doesn-t) <br />
 
 ◾**Co-organizer Women in Economics Workshops Series** <br />

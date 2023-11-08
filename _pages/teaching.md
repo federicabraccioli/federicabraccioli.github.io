@@ -28,11 +28,11 @@ Instructor: [<span style="color:black">Giovanni Ferro-Luzzi</span>](https://www.
 Language: French <br />
 
 ## Teaching Grants & Awards
-◾**Best Teaching Assistant Award** <br />
-IEE-GSEM University of Geneva - *Fall 2021* <br />
-
 ◾**Subside Tremplin** <br />
-University of Geneva - *Fall 2022* <br />
+University of Geneva - *2022* <br />
 NOTE: Financing a replacement, the [<span style="color:black">award</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
-[<span style="color:black">VIDEO</span>](https://mediaserver.unige.ch/play/176648)
+[<span style="color:black">VIDEO</span>](https://mediaserver.unige.ch/play/176648) <br />
+<br />
+◾**Best Teaching Assistant Award** <br />
+IEE-GSEM University of Geneva - *2021* <br />
 

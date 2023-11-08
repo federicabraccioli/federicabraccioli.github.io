@@ -241,16 +241,3 @@
   }
 }
 
-/*.image-container { */
-/*  text-align: center; /* Center the image horizontally */
- /*  padding: 20px;  Add some padding around the image */
- /* max-width: 100%;   Limit the container's width to the screen width */
- /* margin: 0 auto;  Center the container horizontally */
-/*}*/
-
-.author__logo img {
- /* max-width: 100%; Make sure the image doesn't exceed its container width */
-  width: 100%;
-  min-width: 5%;
-  height: auto; /* Maintain the image's aspect ratio */
-}

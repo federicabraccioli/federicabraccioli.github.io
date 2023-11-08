@@ -12,8 +12,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 ## Short CV 
 
 ### ◾Current Employment  <br />
-**Affiliated Professor** - Barcelona School of Economics, Spain <br />
-**Postdoctoral Researcher** - Institute for Economic Analysis (CSIC), Spain  <br />
+**Postdoctoral Researcher** - IAE-CSIC and Barcelona School of Economics, Spain  <br />
 
 ### ◾Doctoral Studies <br />
 **Ph.D. in Economics** – University of Geneva, Switzerland (2017-2023) <br />

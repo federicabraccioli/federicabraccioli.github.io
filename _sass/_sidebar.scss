@@ -248,6 +248,6 @@
 
 .image-container img {
   max-width: 100%; /* Make sure the image doesn't exceed its container width */
-  max-width: 5%;
+  min-width: 5%;
   height: auto; /* Maintain the image's aspect ratio */
 }

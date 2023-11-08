@@ -15,7 +15,7 @@ Amount: 2'000€
 ◾**[<span style="color:black">Subside Tremplin</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/)** <br />
 University of Geneva - *2022* <br />
 Description: Financing a replacement, the award releases its beneficiaries from teaching duties for one semester. <br />
-[<span style="color:black">VIDEO</span>](https://mediaserver.unige.ch/play/176648)
+[<span style="color:black">VIDEO</span>](https://mediaserver.unige.ch/play/176648) <br />
 <br />
 ◾**[<span style="color:black">Mobility Grants in Projects</span>](https://www.snf.ch/en/mKVdFSoD7dwtinOR/funding/supplementary-measures/mobility-grants-in-projects)** <br />
 Swiss National Science Foundation - *2021* <br />

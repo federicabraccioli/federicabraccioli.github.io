@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 <br />
-🔴 **UPCOMING** <br />
+**UPCOMING** <br />
 *2023/12/01* - UAB-IAE Internal Applied Seminar <br />
 *2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />
-**PAST** (🔹invited) <br />
+**PAST**  <br />
 <br />
 ◾**2023** <br />
 Applied Young Economist Webinar Political Economy Workshop (online) <br />
-🔹21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />
+21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 Spring Young Economist Meeting (Torino, Italy) <br />
 European Economic Association Annual Congress (Barcelona, Spain) <br />
@@ -25,7 +25,7 @@ Women in Political Economy Workshop (Stockholm, Sweden) <br />
 13th International Workshop on Applied Education Economics (Catanzaro, Italy) <br />
 Royal Economic Society Ph.D. Conference (Glasgow, United Kingdom) <br />
 Canadian Economics Association Annual Conference (online) <br /> 
-🔹Department of Economics Seminar (Verona, Italy) <br />
+Department of Economics Seminar (Verona, Italy) <br />
 <br />
 ◾**2022** <br />
 VPDE 15th Ph.D. Workshop in Economics (Torino, Italy) <br />
@@ -35,7 +35,7 @@ IEE Brown Bag Seminar (Geneva, Switzerland) <br />
 <br />
 ◾**2021** <br />
 Gerzensee Alumni Conference (Bern, Switzerland) <br />
-🔹Brown Bag Seminar (Bern, Switzerland) <br />
+Brown Bag Seminar (Bern, Switzerland) <br />
 1st Rare Voices in Economics Conference (Geneva, Switzerland) <br />
 Reading Group Political and Development Economics (Lausanne, Switzerland) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />

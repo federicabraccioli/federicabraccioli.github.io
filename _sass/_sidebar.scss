@@ -242,8 +242,9 @@
 }
 
 .sidebar-logo {
-  width: 50px; /* Adjust the width as needed */
-  height: 50px; /* Adjust the height as needed */
+  width: 100%; /* Adjust the width as needed */
+  min-width: 5%;
+/*   height: 50px; Adjust the height as needed */
 /*   margin-left: 10px; Adjust the margin as needed */
 }
 

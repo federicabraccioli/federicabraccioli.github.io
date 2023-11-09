@@ -9,11 +9,11 @@ main:
   - title: "References"
     url: /references/
 
-  - title: "Talks"
-    url: /talks/
-
   - title: "Grants&Awards"
     url: /grants-awards/
+
+  - title: "Talks"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/

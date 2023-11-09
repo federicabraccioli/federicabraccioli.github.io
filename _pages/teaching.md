@@ -22,7 +22,7 @@ GSEM-GSI University of Geneva - *Spring 2018, Spring 2021* <br />
 Instructors: [<span style="color:black">Nicolas Maystre</span>](https://nicolas.maystre.ch/welcome-on-nicolas-maystres-webpage/personal-details) <br />
 Language: French <br />
 
-◾**Introduction to Microeconomics B.A.** 
+◾**Introduction to Microeconomics B.A.**  <br />
 GSEM-GSI University of Geneva - *Fall 2017* <br />
 Instructor: [<span style="color:black">Giovanni Ferro-Luzzi</span>](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [<span style="color:black">Jérémy Laurent-Lucchetti</span>](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French <br />

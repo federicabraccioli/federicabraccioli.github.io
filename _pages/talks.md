@@ -8,13 +8,13 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-*2023/12/01* - UAB-IAE Internal Applied Seminar <br />
 *2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />
 **PAST** (*invited) <br />
 <br />
 ◾**2023** <br />
+UAB-IAE Internal Applied Seminar <br />
 Applied Young Economist Webinar Political Economy Workshop (online) <br />
 *21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />

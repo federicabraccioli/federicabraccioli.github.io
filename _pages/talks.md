@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-*2023/12/17-19* - 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
+2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 <br />
 <br />
 **PAST** (*invited) <br />

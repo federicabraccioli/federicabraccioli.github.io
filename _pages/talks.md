@@ -8,12 +8,13 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
+Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
 <br />
 <br />
 **PAST** (*invited) <br />
 <br />
 ◾**2023** <br />
+2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
 UAB-IAE Internal Applied Seminar <br />
 Applied Young Economist Webinar Political Economy Workshop (online) <br />
 *21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />

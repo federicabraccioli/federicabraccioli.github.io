@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-2024/03/14 - PhD Economics Virtual Seminar [(online)](https://sites.google.com/view/phd-evs2020/home) <br />
+2024/03/14 - PhD Economics Virtual Seminar [<span style="color:blue">(online)</span>](https://sites.google.com/view/phd-evs2020/home) <br />
 <br />
 <br />
 **PAST** (*invited) <br />

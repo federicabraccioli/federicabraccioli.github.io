@@ -8,10 +8,12 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
+2024/03/14 - PhD Economics Virtual Seminar [(online)](https://sites.google.com/view/phd-evs2020/home) <br />
 <br />
 <br />
 **PAST** (*invited) <br />
+◾**2024** <br />
+Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
 <br />
 ◾**2023** <br />
 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />

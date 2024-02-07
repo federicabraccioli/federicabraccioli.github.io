@@ -12,12 +12,13 @@ redirect_from:
 <br />
 <br />
 **PAST** (*invited) <br />
+<br />
 ◾**2024** <br />
-Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
+Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne (Paris, France) <br />
 <br />
 ◾**2023** <br />
 2023 European Winter Meeting of the Econometric Society (Manchester, UK) <br />
-UAB-IAE Internal Applied Seminar <br />
+UAB-IAE Internal Applied Seminar (Barcelona, Spain) <br />
 Applied Young Economist Webinar Political Economy Workshop (online) <br />
 *21st Trobada Barcelona School of Economics (Barcelona, Spain) <br />
 IEE Brown Bag Seminar (Geneva, Switzerland) <br />

@@ -9,7 +9,7 @@ redirect_from:
 <br />
 **UPCOMING** <br />
 2024/03/14 - PhD Economics Virtual Seminar [<span style="color:blue">(online)</span>](https://sites.google.com/view/phd-evs2020/home) <br />
-2024/06/29 - [<span style="color:blue">99th Annual Conference Western Economic Association International</span>](https://weai.org/conferences/) (Seattle, US) <br />
+2024/06/29 - 99th Annual Conference Western Economic Association International (Seattle, US) <br />
 <br />
 <br />
 **PAST** (*invited) <br />

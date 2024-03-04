@@ -9,10 +9,10 @@ redirect_from:
 <br />
 I am a Postdoctoral Researcher at the [<span style="color:black">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and the [<span style="color:black">Barcelona School of Economics</span>](https://bse.eu/people/braccioli-federica) (BSE), Spain. I received a Ph.D. in Economics from the [<span style="color:black">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 <br />
+I will join the Vienna University of Economics and Business as Assistant Professor (post-doc) this summer. 
+<br />
 **Research interests:** Political Economy, Labour Economics, Applied Economics<br />
 <br />
-<br />
-**I am on the Economic Job Market in 2023-2024 for the first time.** <br />
 <br />
 ## Job Market Paper 
 **"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"**  <br />

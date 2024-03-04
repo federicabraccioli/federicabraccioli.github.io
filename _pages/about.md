@@ -9,9 +9,9 @@ redirect_from:
 <br />
 I am a Postdoctoral Researcher at the [<span style="color:black">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and an Affiliated Professor at the [<span style="color:black">Barcelona School of Economics</span>](https://bse.eu/people/braccioli-federica) (BSE), Spain. I received a Ph.D. in Economics from the [<span style="color:black">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 <br />
-I will join the Vienna University of Economics and Business as Assistant Professor (post-doc) this summer. 
+I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
 <br />
-**Research interests:** Political Economy, Labour Economics, Applied Economics<br />
+**Research interests:** Political Economy, Labour Economics, Applied Economics <br />
 <br />
 <br />
 ## Job Market Paper 

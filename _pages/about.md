@@ -13,11 +13,12 @@ I received my Ph.D. from the (<span style="color:black">Institute of Economics a
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-◼️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023<span style="color:black">](https://www.eeassoc.org/awards/young-economist-award).  <br />
+◼️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award).  <br />
 ◼️ I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
 ◼️ Next talk: PhD Economics Virtual Seminar [<span style="color:black">(online)</span>](https://sites.google.com/view/phd-evs2020/home). <br />
 <br />
 <br />
+<span style="color:black">**DIVERSITY:**</span> <br />
 I am co-founder of [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:black">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
 I am now part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">(@WomenInPolEcon)</span>](https://twitter.com/WomenInPolEcon).
 <!-- ![Alt Text](/images/IAE_logo.jpg){: width="25%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } -->

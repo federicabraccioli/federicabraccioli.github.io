@@ -12,10 +12,10 @@ I am a Postdoctoral Researcher at the [<span style="color:black">Institute for E
 I am co-founder of [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:black">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
 <br />
 <br />
-<br />
 **NEWS:** I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
+<br />
 **Next talk:** PhD Economics Virtual Seminar [<span style="color:black">(online)</span>](https://sites.google.com/view/phd-evs2020/home).
 <br />
 <br />
-I am part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">(@WomenInPolEcon)</span>][https://twitter.com/WomenInPolEcon].
+I am part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">(@WomenInPolEcon)</span>](https://twitter.com/WomenInPolEcon).
 <!-- ![Alt Text](/images/IAE_logo.jpg){: width="25%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } -->

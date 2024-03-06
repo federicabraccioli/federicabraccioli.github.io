@@ -9,7 +9,7 @@ redirect_from:
 <br />
 I am a Postdoctoral Researcher at the [<span style="color:black">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC) and an Affiliated Professor at the [<span style="color:black">Barcelona School of Economics</span>](https://bse.eu/people/braccioli-federica) (BSE), Spain. <br />
 My research on Political Economy focuses on contract enforcement institutions, organized crime, and its persistence. My work on Labour Economics concentrates on the effect of choosing a college major on labour market outcomes. <br />
-I received my Ph.D. from the (<span style="color:black">Institute of Economics and Econometrics</span>)[https://www.unige.ch/gsem/en/research/institutes/iee/] at the [<span style="color:black">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
+I received my Ph.D. from the [<span style="color:black">Institute of Economics and Econometrics</span>](https://www.unige.ch/gsem/en/research/institutes/iee/) at the [<span style="color:black">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />

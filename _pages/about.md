@@ -22,5 +22,5 @@ I received my Ph.D. from the [<span style="color:black">Institute of Economics a
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />
 ▪️ I am co-founder of [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/), an association that implements strategies to break self-perpetuating mechanisms that inhibit diversity and inclusion in the economic profession. Check my work for the association [<span style="color:black">here</span>](https://federicabraccioli.github.io/rare-voices/). <br />
-▪️ I am now part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">(@WomenInPolEcon)</span>](https://twitter.com/WomenInPolEcon).
+▪️ I am now part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">@WomenInPolEcon</span>](https://twitter.com/WomenInPolEcon).
 <!-- ![Alt Text](/images/IAE_logo.jpg){: width="25%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } -->

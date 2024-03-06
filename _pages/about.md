@@ -13,7 +13,7 @@ I received my Ph.D. from the (<span style="color:black">Institute of Economics a
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-◼️ My JMP won the (<span style="color:black">European Economic Association Young Economist Award 2023<span style="color:black">)[https://www.eeassoc.org/awards/young-economist-award].  <br />
+◼️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023<span style="color:black">](https://www.eeassoc.org/awards/young-economist-award).  <br />
 ◼️ I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
 ◼️ Next talk: PhD Economics Virtual Seminar [<span style="color:black">(online)</span>](https://sites.google.com/view/phd-evs2020/home). <br />
 <br />

@@ -17,7 +17,7 @@ I received my Ph.D. from the [<span style="color:black">Institute of Economics a
 <span style="color:blue">**NEWS:**</span> <br />
 ▪️ I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
 ▪️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award).  <br />
-▪️ Next talk: 2024/04/03 - European Public Choice Society 2024 (Vienna, Austria) <br /> European Public Choice Society 2024 (Vienna, Austria) <br />. <br />
+▪️ Next talk: 2024/04/03 - European Public Choice Society 2024 (Vienna, Austria). <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

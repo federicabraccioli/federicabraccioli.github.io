@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Data&Resources"
-    url: /data-resources/
+  - title: "Data"
+    url: /data/
 
   - title: "References"
     url: /references/

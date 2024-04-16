@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Data&Resources"
-permalink: /data-resources/
+title: "Data"
+permalink: /data/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Italian Tribunal Districts
+### ◾ Italian Tribunal Districts <br />
+

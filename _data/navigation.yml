@@ -6,9 +6,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Data&Resources"
-    url: /data-resources/
-
   - title: "Grants&Awards"
     url: /grants-awards/
 
@@ -17,6 +14,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Data&Resources"
+    url: /data-resources/
 
   - title: "References"
     url: /references/

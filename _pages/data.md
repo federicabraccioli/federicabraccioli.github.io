@@ -9,4 +9,4 @@ redirect_from:
 
 ### ◾ Italian Tribunal Districts <br />
 The database maps the geographical competence of the tribunals to municipalities in Italy. <br />
-[<span style="color:black">ReadMe</span>]() ▪️ [<span style="color:black">Data</span>]()
+▪️ [<span style="color:black">ReadMe</span>]() ▪️ [<span style="color:black">Data</span>]()

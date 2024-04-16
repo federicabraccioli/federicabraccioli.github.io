@@ -13,7 +13,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ I am visiting Stanford GBS in April-May 2024. <br />
+▪️ I am visiting Stanford GSB in April-May 2024. <br />
 ▪️ Next talk: 2024/05/10 - Al Capone Conference (Boston, US). <br />
 ▪️ I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor (post-doc) this summer. <br />
 ▪️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award).  <br />

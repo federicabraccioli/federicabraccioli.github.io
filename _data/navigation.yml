@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "References"
-    url: /references/
+  - title: "Data&Resources"
+    url: /D&R/
 
   - title: "Grants&Awards"
     url: /grants-awards/
@@ -17,6 +17,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "References"
+    url: /references/
 
   - title: "Rare Voices"
     url: /rare-voices/

@@ -24,7 +24,7 @@ Italy has one of the slowest civil judicial systems in Europe. At the same time,
 We study the choice of acquiring STEM and non-STEM college education using variation induced by the proximity to universities offering different types of programs. We adopt a novel methodology allowing the identification of the distribution of response types and treatment effects in a multiple unordered discrete choice setting (Heckman and Pinto, 2018). The empirical analysis is based on confidential survey data for Italy, combined with administrative information about the founding dates of all Italian universities and faculties. We find that most compliers are women at the margin of choosing STEM education versus not going to college. We simulate the effects of expanding the supply of STEM education and discover that, in addition to substantial effects on employment, the gender disparity in STEM education could potentially decrease by up to 20%.  <br />
 <br />
 ▪️ Project financed by the Swiss National Research Fund [<span style="color:black;">(grant 182228)</span>](https://data.snf.ch/grants/grant/182228) <br />
-▪️ [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success) <br />
+▪️ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) <br />
 <br />
 <br />
 ◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** <br />

@@ -8,9 +8,10 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-2024/05/16 - Historical Political Economy Workshop @ Stanford Political Science (Stanford, US).
+2024/05/16 - Historical Political Economy Workshop @ Stanford Political Science (Stanford, US).  <br />
 2024/05/31 - Canadian Economic Association Conference (Toronto, Canada) <br />
-2024/06/29 -  99th Annual Conference Western Economic Association International (Seattle, US) <br />
+2024/06/29 - 99th Annual Conference Western Economic Association International (Seattle, US) <br />
+2024/09/26 - EEA and ESEM (Rotterdam, NL)  <br />
 <br />
 <br />
 **PAST** (*invited) <br />

@@ -16,7 +16,7 @@ redirect_from:
 <br />
 **PAST** <br />
 <br />
-◾**2024** Al Capone Conference (Boston, US); European Public Choice Society 2024 (Vienna, AT); PhD Economics Virtual Seminar (online); Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne (Paris, FR) <br />
+◾**2024** Al Capone Conference <span style="color:gray">(Boston, US)</span>; European Public Choice Society 2024 (Vienna, AT); PhD Economics Virtual Seminar (online); Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne (Paris, FR) <br />
 <br />
 ◾**2023** European Winter Meeting of the Econometric Society (Manchester, UK); UAB-IAE Internal Applied Seminar (Barcelona, ES); Applied Young Economist Webinar Political Economy Workshop (online); 21st Trobada Barcelona School of Economics (Barcelona, ES); IEE Brown Bag Seminar (Geneva, CH); Spring Young Economist Meeting (Torino, IT); European Economic Association Annual Congress (Barcelona, ES); 7th Workshop on the Economics of Organized Crime (Pavia, IT); Women in Political Economy Workshop (Stockholm, SE); 13th International Workshop on Applied Education Economics (Catanzaro, IT); Royal Economic Society Ph.D. Conference (Glasgow, UK); Canadian Economics Association Annual Conference (online); Department of Economics Seminar (Verona, IT) <br />
 <br />

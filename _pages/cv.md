@@ -14,7 +14,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 ### ◾Academic positions  <br />
 **Affiliated Professor** – Barcelona School of Economics, Spain  (2023-present) <br />
 **Postdoctoral Researcher** – Institute for Economic Analysis (CSIC), Spain  (2023-present) <br />
-**Assistant Professor (post-doc)** – Vienna University of Economics and Business, Austria  (Jul 2024 -) <br />
+**Assistant Professor** – Vienna University of Economics and Business, Austria  (Jul 2024 -) <br />
 
 ### ◾Doctoral Studies <br />
 **Ph.D. in Economics** – University of Geneva, Switzerland (2017-2023) <br />

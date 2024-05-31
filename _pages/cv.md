@@ -11,20 +11,20 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 
 ## Short CV 
 
-### ◾Academic positions  <br />
+### ◾ACADEMIC POSITIONS  <br />
 **Affiliated Professor** – Barcelona School of Economics, Spain  (2023-present) <br />
 **Postdoctoral Researcher** – Institute for Economic Analysis (CSIC), Spain  (2023-present) <br />
 **Assistant Professor** – Vienna University of Economics and Business, Austria  (Jul 2024 -) <br />
 
-### ◾Research Visits  <br />
+### ◾RESEARCH VISITS  <br />
 **2024** UCLA Anderson (May); Stanford GSB (April) <br />
 
-### ◾Doctoral Studies <br />
+### ◾DOCTORAL STUDIES <br />
 **Ph.D. in Economics** – University of Geneva, Switzerland (2017-2023) <br />
 **Visiting Scholar** – IAE-CSIC and Barcelona School of Economics, Spain (Spring 2022) <br />
-**Doctoral Program** – Study Center Gerzensee, Switzerland (2017-2018) <br />
+**Doctoral Program** – Study Center Gerzensee, Switzerland (2017-2019) <br />
 
-### ◾Pre-Doctoral Studies <br />
+### ◾PRE-DOCTORAL STUDIES <br />
 **M.A. in Economics** – University of Lausanne, Switzerland (2015-2017)  <br />
 **B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, Italy (2011-2015)  <br />
 <br/>

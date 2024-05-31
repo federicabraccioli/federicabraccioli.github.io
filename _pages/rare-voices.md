@@ -8,6 +8,7 @@ redirect_from:
 ---
 # My work at RViE  ![Alt Text](/images/RViE.png){: width="30%" style="float: right;" } <br />
 ◾**Co-founder and co-president [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/) (RViE)** <br />
+with [<span style="color:black">Laura Minu Nowzohour</span>]([https://www.rarevoicesineconomics.com/](https://www.lauranowzohour.com/) and [<span style="color:black">Alice R. Antunes</span>]([https://www.rarevoicesineconomics.com/](https://sites.google.com/view/alice-r-antunes/home)<br />
 former Women in Economics Léman <br />
 Years: *2019-2022* <br />
 

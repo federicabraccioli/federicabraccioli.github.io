@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 You can download my full CV [<span style="color:blue">here</span>](https://federicabraccioli.github.io/files/Braccioli_CV.pdf). <br />
-ORCID iD: [<span style="color:blue">0009-0002-8379-985X</span>](https://orcid.org/0009-0002-8379-985X) <br />
 
 ## Short CV 
 
@@ -32,5 +31,8 @@ ORCID iD: [<span style="color:blue">0009-0002-8379-985X</span>](https://orcid.or
 **B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, Italy (2011-2015)  <br />
 <br />
 <br />
+ORCID iD: [<span style="color:blue">0009-0002-8379-985X</span>](https://orcid.org/0009-0002-8379-985X) <br />
 <br/>
+<br />
+<br />
 <!-- ![Alt Text](/images/IAE_logo.jpg){: width="25%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } -->

@@ -17,9 +17,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **Assistant Professor** – Vienna University of Economics and Business, Austria  (Jul 2024 -) <br />
 
 ### ◾Research Visits  <br />
-**2024** UCLA Anderson, US (May); Stanford GSB, US (April) <br />
-**2022** Institute for Economic Analysis (CSIC), ES (January-May) <br />
-
+**2024** UCLA Anderson (May); Stanford GSB (April) <br />
 
 ### ◾Doctoral Studies <br />
 **Ph.D. in Economics** – University of Geneva, Switzerland (2017-2023) <br />

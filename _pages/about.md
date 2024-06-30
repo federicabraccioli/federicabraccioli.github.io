@@ -13,7 +13,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ Next talk: 2024/07/02 - 99th Annual Conference Western Economic Association International (Seattle, US). <br />
+▪️ Next talk: 99th Annual Conference Western Economic Association International (Seattle, US). <br />
 ▪️ I will join the [<span style="color:black">Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/) as Assistant Professor this summer. <br />
 ▪️ My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award).  <br />
 <br />

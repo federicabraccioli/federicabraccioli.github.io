@@ -14,7 +14,6 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 ### ◾CURRENT EMPLOYMENT  <br />
 **Affiliated Professor** – Barcelona School of Economics, Spain  (2023-present) <br />
 **Postdoctoral Researcher** – Institute for Economic Analysis (CSIC), Spain  (2023-present) <br />
-**Assistant Professor** – Vienna University of Economics and Business, Austria  (Jul 2024 -) <br />
 
 ### ◾RESEARCH VISITS  <br />
 **2024** UCLA Anderson (May); Stanford GSB (April) <br />

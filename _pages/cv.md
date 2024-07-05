@@ -26,4 +26,4 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 <br/>
 <br />
 <br />
-<!-- ![Alt Text](/images/IAE_logo.jpg){: width="25%" style="float: right;" } ![Alt Text](/images/bse_logo_large.png){: width="30%" style="float: right;" } -->
+<!-- ![Alt Text](/images/WU_logo.png){: width="25%" style="float: right;" } -->

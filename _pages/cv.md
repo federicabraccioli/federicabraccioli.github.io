@@ -25,5 +25,3 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, Italy (2015)  <br />
 <br/>
 <br />
-<br />
-<!-- ![Alt Text](/images/WU_logo.png){: width="25%" style="float: right;" } -->

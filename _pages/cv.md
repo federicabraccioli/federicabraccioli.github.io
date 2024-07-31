@@ -15,7 +15,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **Assistant Professor** – Vienna University of Economics and Business (Jul 2024 - present)
 
 ### ◾RESEARCH VISITS  <br />
-**2024** UCLA Anderson (May); Stanford GSB (April) <br />
+**2024** CLEAN Bocconi (September); UCLA Anderson (May); Stanford GSB (April) <br />
 
 ### ◾EDUCATION <br />
 **Ph.D. in Economics** – University of Geneva, Switzerland (2023) <br />

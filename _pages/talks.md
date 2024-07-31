@@ -8,7 +8,8 @@ redirect_from:
 ---
 <br />
 **UPCOMING** <br />
-2024/09/26 - EEA and ESEM (Rotterdam, NL)  <br />
+2024/08/26 - EEA and ESEM (Rotterdam, NL)  <br />
+2024/09/23 - CLEAN Bocconi (Milano, IT) <br />
 <br />
 <br />
 **PAST** <br />

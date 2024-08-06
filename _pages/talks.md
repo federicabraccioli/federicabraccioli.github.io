@@ -10,6 +10,7 @@ redirect_from:
 **UPCOMING** <br />
 2024/08/26 - EEA and ESEM (Rotterdam, NL)  <br />
 2024/09/23 - CLEAN Bocconi (Milano, IT) <br />
+2024/10/08 - LSE PSPE (London, UK) <br />
 <br />
 <br />
 **PAST** <br />

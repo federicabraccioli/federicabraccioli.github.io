@@ -14,7 +14,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ Next talk: EEA and ESAM 2024 (Rotterdam, NL). <br />
+▪️ Next talk: EEA and ESEM 2024 (Rotterdam, NL). <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

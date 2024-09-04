@@ -1,12 +1,22 @@
 ---
 layout: archive
-title: "Teaching Assistant"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
 ---
 <br />
+#INSTRUCTOR  <br />
+ <br />
+◾**Political Economy M.A.** <br />
+Vienna University of Economics and Business - *Fall 2024* <br />
+
+◾**Political Economy, Theory and History B.A.** <br />
+Vienna University of Economics and Business - *Fall 2024* <br />
+
+#ASSISTANT  <br />
+ <br />
 ◾**Coordination for Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva - *Fall 2021*<br />
 Instructors: [<span style="color:black">Giovanni Ferro-Luzzi</span>](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [<span style="color:black">Jérémy Laurent-Lucchetti</span>](https://sites.google.com/site/jeremylaurentlucchetti/), [<span style="color:black">Frédéric Robert-Nicoud</span>](https://frobertnicoud.weebly.com/) <br />

@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 <br />
-**UPCOMING** <br />
+**UPCOMING** (*as discussant) <br />
 2024/09/23 - CLEAN Bocconi (Milano, IT) <br />
+2024/10/04 - *XV Transatlantic Workshop on the Economics of Crime (Zurich, CH) <br />
 2024/10/08 - LSE PSPE (London, UK) <br />
 2024/10/18 - Vienna Applied Micro Economics Workshop (Vienna, AT) <br />
 <br />

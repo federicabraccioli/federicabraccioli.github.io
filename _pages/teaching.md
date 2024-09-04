@@ -37,12 +37,4 @@ GSEM-GSI University of Geneva - *Fall 2017* <br />
 Instructor: [<span style="color:black">Giovanni Ferro-Luzzi</span>](https://www.unige.ch/gsem/fr/recherche/corps-professoral/tous/giovanni-ferro-luzzi/), [<span style="color:black">Jérémy Laurent-Lucchetti</span>](https://sites.google.com/site/jeremylaurentlucchetti/) <br />
 Language: French <br />
 
-## Teaching Grants & Awards
-◾**Subside Tremplin** <br />
-University of Geneva - *2022* <br />
-NOTE: Financing a replacement, the [<span style="color:black">award</span>](https://www.unige.ch/rectorat/egalite/evenement/actualites/subside-tremplin/) releases its beneficiaries from teaching duties for one semester. <br />
-[<span style="color:black">VIDEO</span>](https://mediaserver.unige.ch/play/176648) <br />
-<br />
-◾**Best Teaching Assistant Award** <br />
-IEE-GSEM University of Geneva - *2021* <br />
 

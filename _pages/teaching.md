@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br />
-# INSTRUCTOR  <br />
+## INSTRUCTOR  <br />
  <br />
 ◾**Political Economy M.A.** <br />
 Vienna University of Economics and Business - *Fall 2024* <br />
@@ -15,7 +15,7 @@ Vienna University of Economics and Business - *Fall 2024* <br />
 ◾**Political Economy, Theory and History B.A.** <br />
 Vienna University of Economics and Business - *Fall 2024* <br />
 
-# ASSISTANT  <br />
+## ASSISTANT  <br />
  <br />
 ◾**Coordination for Introduction to Microeconomics B.A.** <br />
 GSEM-GSI University of Geneva - *Fall 2021*<br />

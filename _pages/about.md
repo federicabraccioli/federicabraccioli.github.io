@@ -15,7 +15,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
 ▪️ I will visit CLEAN Bocconi (Milano, IT) on September 23-27. <br />
-▪️ I will visit IRLE at UC Berkeley in February 2025. <br />
+▪️ I will visit UC Berkeley in February 2025. <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

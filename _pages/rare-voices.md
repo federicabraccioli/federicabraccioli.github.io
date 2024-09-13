@@ -13,7 +13,7 @@ former Women in Economics Léman <br />
 Years: *2019-2022* <br />
 
 ◾**Invited Presentation for RViE:** <br />
-[<span style="color:black">Roundtable "Challenges of Rare Voices: From Households to Institutions"</span>]([https://www.rarevoicesineconomics.com/iee-research-day](https://www.rarevoicesineconomics.com/conference-2024)) (Graduate Institute of International and Development Studies, Geneva) *2024* <br />
+[<span style="color:black">Roundtable "Challenges of Rare Voices: From Households to Institutions"</span>]([https://www.rarevoicesineconomics.com/iee-research-day](https://www.rarevoicesineconomics.com/conference-2024) (IHEID, Geneva) *2024* <br />
 [<span style="color:black">IEE Research Day</span>](https://www.rarevoicesineconomics.com/iee-research-day) (GSEM – University of Geneva) *2023* <br />
 [<span style="color:black">The Playing Field in Academia</span>](https://www.hhs.se/en/about-us/calendar/site-external-events/2023/the-playing-field-in-academia-why-are-women-still-underrepresented/) (Warsaw, Poland) *2023* - [<span style="color:black">VIDEO</span>](https://www.youtube.com/watch?v=oIJvYm__y5w&t=12622s)<br />
 [<span style="color:black">Diversity & Inclusion Network</span>](https://res.org.uk/diversity-network/) - Royal Economic Society Annual Conference (online) *2022* <br />

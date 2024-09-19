@@ -12,7 +12,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 ## Short CV 
 
 ### ◾CURRENT EMPLOYMENT  <br />
-**Assistant Professor** – Vienna University of Economics and Business (Jul 2024 - present)
+**Assistant Professor** – WU Vienna University of Economics and Business (Jul 2024 - present)
 
 ### ◾RESEARCH VISITS  <br />
 **2025** UC Berkeley (February) <br />

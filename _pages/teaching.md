@@ -10,10 +10,10 @@ redirect_from:
 ## INSTRUCTOR  <br />
  <br />
 ◾**Political Economy M.A.** <br />
-Vienna University of Economics and Business - *Fall 2024* <br />
+WU Vienna University of Economics and Business - *Fall 2024* <br />
 
 ◾**Political Economy, Theory and History B.A.** <br />
-Vienna University of Economics and Business - *Fall 2024* <br />
+WU Vienna University of Economics and Business - *Fall 2024* <br />
 
 ## ASSISTANT  <br />
  <br />

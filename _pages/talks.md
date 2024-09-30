@@ -10,7 +10,7 @@ redirect_from:
 **UPCOMING** (*as discussant) <br />
 <br />
 2024/10/04 - *XV Transatlantic Workshop on the Economics of Crime (Zurich, CH) <br />
-2024/10/08 - LSE PSPE (London, UK) <br />
+2024/10/08 - London School of Economics PSPE (London, UK) <br />
 2024/10/18 - Vienna Applied Micro Economics Workshop (Vienna, AT) <br />
 2025/02/12 - IRLE UC Berkeley (Berkeley, US) <br />
 <br />

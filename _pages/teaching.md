@@ -13,7 +13,7 @@ redirect_from:
 WU Vienna University of Economics and Business - *Fall 2024* <br />
 
 ◾**Political Economy, Theory and History B.A.** <br />
-WU Vienna University of Economics and Business - *Fall 2024* <br />
+WU Vienna University of Economics and Business - *Fall 2024, Spring 2025* <br />
 
 ## ASSISTANT  <br />
  <br />

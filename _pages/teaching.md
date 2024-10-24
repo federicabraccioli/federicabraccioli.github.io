@@ -12,7 +12,7 @@ redirect_from:
 ◾**Political Economy M.A.** <br />
 WU Vienna University of Economics and Business - *Fall 2024* <br />
 
-◾**History of Economic Thought B.A. ** <br />
+◾**History of Economic Thought B.A.** <br />
 WU Vienna University of Economics and Business - *Fall 2024, Spring 2025* <br />
 
 ## ASSISTANT  <br />

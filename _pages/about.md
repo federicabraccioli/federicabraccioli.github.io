@@ -14,8 +14,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ Next talk: London School of Economics PSPE (London, UK). <br />
-▪️ I will visit CLEAN Bocconi in September. <br />
+▪️ Next talk: IRLE UC Berkeley. <br />
 ▪️ I will visit UC Berkeley in February 2025. <br />
 <br />
 <br />

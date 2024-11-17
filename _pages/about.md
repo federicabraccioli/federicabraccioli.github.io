@@ -25,5 +25,6 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <span style="color:black">**PROFILES:**</span> <br />
 ORCID iD: [<span style="color:black">0009-0002-8379-985X</span>](https://orcid.org/0009-0002-8379-985X) <br />
+[<span style="color:black">Google Scholar</span>](https://scholar.google.com/citations?hl=en&user=uxZht_0AAAAJ&view_op=list_works&gmla=AL3_zihzRbTUeksl6zh514UVF_5_Djd5YoBsxtOofqWUwe3UpvkATw2So008paQbELsmt3_rMe9N0zXIb09Dur_p)
 <br />
 <br />

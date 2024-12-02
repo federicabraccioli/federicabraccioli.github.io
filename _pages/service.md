@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ER87WNKQCE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ER87WNKQCE');
+</script>
 ## Referee
 ◾**Journals** Oxford Bulletin of Economics and Statistics, Political Geography <br />
 ◾**Conferences** 3rd Rare Voices in Economics, 2024 Spring Young Economist Meeting, Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />

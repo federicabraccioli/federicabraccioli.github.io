@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ER87WNKQCE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ER87WNKQCE');
+</script>
 
 You can download my full CV [<span style="color:blue">here</span>](https://federicabraccioli.github.io/files/Braccioli_CV.pdf). <br />
 

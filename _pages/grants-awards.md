@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ER87WNKQCE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ER87WNKQCE');
+</script>
 <br />
 ◾**[<span style="color:black">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />
 **European Economic Association Annual Congress 2023**  <br />

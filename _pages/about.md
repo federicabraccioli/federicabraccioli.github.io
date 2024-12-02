@@ -6,6 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ER87WNKQCE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ER87WNKQCE');
+</script>
 <br />
 I am an Assistant Professor at [<span style="color:black">WU Vienna University of Economics and Business</span>](https://www.wu.ac.at/en/economics/people/braccioli-f). In the spring of 2024, I visited UCLA Anderson and Stanford GSB. Previously, I was an Affiliated Professor at the [<span style="color:black">Barcelona School of Economics</span>](https://bse.eu/people/braccioli-federica) (BSE) and Postdoctoral Researcher at the [<span style="color:black">Institute for Economic Analysis</span>](https://www.iae.csic.es/investigadorPersonalAbout.php?idinvestigador=3810&lang=ing) (IAE-CSIC). I received my Ph.D. from the [<span style="color:black">Institute of Economics and Econometrics</span>](https://www.unige.ch/gsem/en/research/institutes/iee/) at the [<span style="color:black">University of Geneva</span>](https://www.unige.ch/gsem/en/research/institutes/iee/), Switzerland, in September 2023. <br />
 My JMP won the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award).  <br />

@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ER87WNKQCE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ER87WNKQCE');
+</script>
 # My work at RViE  ![Alt Text](/images/RViE.png){: width="30%" style="float: right;" } <br />
 ◾**Co-founder and co-president [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/) (RViE)** <br />
 with [<span style="color:black">Laura Minu Nowzohour</span>](https://www.lauranowzohour.com/) and [<span style="color:black">Alice R. Antunes</span>](https://sites.google.com/view/alice-r-antunes/home)<br />

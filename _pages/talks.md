@@ -19,6 +19,7 @@ redirect_from:
 **UPCOMING** (*as discussant) <br />
 <br />
 2025/02/12 - IRLE UC Berkeley (Berkeley, US) <br />
+2025/03/17 - CERGEI-EI (Prague, CZ) <br />
 2025/03/26 - Central European University (Vienna, AT) <br />
 <br />
 <br />

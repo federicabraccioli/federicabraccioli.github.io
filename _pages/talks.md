@@ -16,14 +16,14 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
-**UPCOMING** (*as discussant) <br />
+**UPCOMING**  <br />
 <br />
 2025/02/12 - IRLE UC Berkeley (Berkeley, US) <br />
 2025/03/17 - CERGEI-EI (Prague, CZ) <br />
 2025/03/26 - Central European University (Vienna, AT) <br />
 <br />
 <br />
-**PAST** <br />
+**PAST** (*as discussant) <br />
 <br />
 ◾**2024** WU Vienna Internal Seminar <span style="color:gray">(Vienna, AT)</span>; Vienna Applied Micro Economics Workshop <span style="color:gray">(Vienna, AT)</span>; London School of Economics PSPE <span style="color:gray">(London, UK)</span>; *XV Transatlantic Workshop on the Economics of Crime <span style="color:gray">(Zurich, CH)</span>: CLEAN Bocconi <span style="color:gray">(Milano, IT)</span>; EEA-ESEM <span style="color:gray">(Rotterdam, NL)</span>; WEAI <span style="color:gray">(Seattle, US)</span>; Canadian Economic Association Conference <span style="color:gray">(Toronto, CA)</span>; Historical Political Economy Workshop <span style="color:gray">(Stanford, US)</span>; Al Capone Conference <span style="color:gray">(Cambridge, US)</span>; European Public Choice Society 2024 <span style="color:gray">(Vienna, AT)</span>; PhD Economics Virtual Seminar <span style="color:gray">(online)</span>; Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <span style="color:gray">(Paris, FR)</span> <br />
 <br />

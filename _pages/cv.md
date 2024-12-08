@@ -28,10 +28,10 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **2024** CLEAN Bocconi (September); UCLA Anderson (May); Stanford GSB (April) <br />
 
 ### ◾EDUCATION <br />
-**Ph.D. in Economics** – University of Geneva, Switzerland (2023) <br />
-**Visiting Scholar** – IAE-CSIC and Barcelona School of Economics, Spain (Spring 2022) <br />
-**Doctoral Program** – Study Center Gerzensee, Switzerland (2019) <br />
-**M.A. in Economics** – University of Lausanne, Switzerland (2017)  <br />
-**B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, Italy (2015)  <br />
+**Ph.D. in Economics** – University of Geneva, CH (2023) <br />
+**Visiting Scholar** – IAE-CSIC and Barcelona School of Economics, ES (Spring 2022) <br />
+**Doctoral Program** – Study Center Gerzensee, CH (2019) <br />
+**Msc in Economics** – University of Lausanne, CH (2017)  <br />
+**B.A. in Economics of Financial Markets and Institutions** – University of Rome Tor Vergata, IT (2015)  <br />
 <br/>
 <br />

@@ -16,6 +16,10 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
+◾ **WU International Research Fellow**  <br />
+WU Vienna University of Economics and Business  - *2024* <br />
+Amount: 4'000€ <br />
+<br />
 ◾**[<span style="color:black">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />
 **European Economic Association Annual Congress 2023**  <br />
 with the paper *"The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not"*  <br />

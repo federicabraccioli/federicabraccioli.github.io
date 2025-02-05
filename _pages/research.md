@@ -18,12 +18,12 @@ redirect_from:
 <br />
 **Research Interests:** Political Economy, Labour and Education Economics, Applied Microeconomics. <br />
 <br />
-◾**[<span style="color:black">The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true)** <br />
-*- joint with [<span style="color:black">Esteban Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">Amedeo Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">Antoine Zerbini</span>](https://www.antoinezerbini.com/)* CESifo Economic Studies, 2024 <br />
+## PUBLICATIONS
+◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
+*- with [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/)*  <br />
 ▪️ WP verions: [<span style="color:blue">[BSE Working Paper 1432]</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) <br />
 <br />
 <br />
-
 ## WORKING PAPERS
 ◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
 ▪️ <span style="color:red;">WINNER:</span> [<span style="color:red">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) ▪️ [<span style="color:blue">[Draft]</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />

@@ -24,8 +24,8 @@ redirect_from:
 <br />
 <br />
 ## WORKING PAPERS
-◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
-▪️ <span style="color:red;">WINNER:</span> [<span style="color:red">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) ▪️ [<span style="color:blue">[Draft]</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
+◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** [<span style="color:blue">[Draft]</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
+▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
 <br /> 
 <br />
 ◾**Education Expansion, College Choice and Labour Market Success** (w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)) ▪️ [<span style="color:blue">[CEPR Discussion Paper 18712]</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">[CESifo Working Paper No. 10842]</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">[BSE Working Paper 1419]</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success) ▪️ *Submitted* <br /> <br />

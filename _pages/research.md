@@ -19,9 +19,8 @@ redirect_from:
 **Research Interests:** Political Economy, Labour and Education Economics, Applied Microeconomics. <br />
 <br />
 ## PUBLICATIONS
-◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
-*- with [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/)*  <br />
-▪️ WP verions: [<span style="color:blue">[BSE Working Paper 1432]</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) <br />
+◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** (w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
+▪️ WP verions: [<span style="color:black">[BSE Working Paper 1432]</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) <br />
 <br />
 <br />
 ## WORKING PAPERS

@@ -18,9 +18,10 @@ redirect_from:
 <br />
 **UPCOMING**  <br />
 <br />
-2025/02/12 - IRLE UC Berkeley (Berkeley, US) <br />
+2025/02/12 - IRLE at UC Berkeley (Berkeley, US) <br />
 2025/03/17 - CERGEI-EI (Prague, CZ) <br />
 2025/03/26 - Central European University (Vienna, AT) <br />
+2025/05/12 - INEQ at WU Vienna (Vienna, AT) <br />
 <br />
 <br />
 **PAST** (*as discussant) <br />

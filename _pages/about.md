@@ -23,7 +23,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ Next talk: IRLE UC Berkeley. <br />
+▪️ Next talk: IRLE @ UC Berkeley. <br />
 ▪️ I will visit UC Berkeley from Jan 27 to Feb 21, 2025. <br />
 ▪️ I will visit New York University from Feb 24 to Feb 28, 2025. <br />
 <br />

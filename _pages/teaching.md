@@ -17,7 +17,7 @@ redirect_from:
 </script>
 <br />
 ## INSTRUCTOR  <br />
-Department of Economics, WU Vienna University of Economics and Business
+Department of Economics at WU Vienna University of Economics and Business, in English: <br />
  <br />
 ◾**Political Economy** (master)  <br />
 *Fall 2024, 2025* <br />
@@ -29,15 +29,19 @@ Department of Economics, WU Vienna University of Economics and Business
 *Fall 2025* <br />
 
 ## ASSISTANT  <br />
-Bachelor courses at GSEM-GSI University of Geneva, in French and English:  
+GSEM-GSI University of Geneva, in French and English:  
  <br />
-◾**Coordination for Introduction to Microeconomic** *Fall 2021* <br />
+◾**Coordination for Introduction to Microeconomic** (bachelor) <br />
+*Fall 2021* <br />
 
-◾**Introduction to Macroeconomics** - *Spring 2018, Fall 2019, Spring 2019* <br />
+◾**Introduction to Macroeconomics** (bachelor) <br />
+*Spring 2018, Fall 2019, Spring 2019* <br />
 
-◾**Introduction to International Economics** - *Spring 2018, Spring 2021* <br />
+◾**Introduction to International Economics** (bachelor) <br />
+*Spring 2018, Spring 2021* <br />
 
-◾**Introduction to Microeconomics** - *Fall 2017* <br />
+◾**Introduction to Microeconomics** (bachelor) <br />
+*Fall 2017* <br />
  <br />
 
 

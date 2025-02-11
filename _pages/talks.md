@@ -21,6 +21,7 @@ redirect_from:
 2025/02/12 - IRLE at UC Berkeley (Berkeley, US) <br />
 2025/03/17 - CERGEI-EI (Prague, CZ) <br />
 2025/03/26 - Central European University (Vienna, AT) <br />
+2025/04/03 - European Public Choice Society Meeting (Riga, LV)  <br />
 2025/05/12 - INEQ at WU Vienna (Vienna, AT) <br />
 <br />
 <br />

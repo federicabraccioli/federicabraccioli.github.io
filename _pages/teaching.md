@@ -31,7 +31,7 @@ WU Vienna (AT), in English: <br />
 ## ASSISTANT  <br />
 University of Geneva (CH), in French and English:  
  <br />
-◾**Coordination for Introduction to Microeconomics** (bachelor) <br />
+◾**Coordinator for Introduction to Microeconomics** (bachelor) <br />
 *Fall 2021* <br />
 
 ◾**Introduction to Macroeconomics** (bachelor) <br />

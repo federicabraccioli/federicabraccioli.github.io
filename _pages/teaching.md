@@ -17,7 +17,7 @@ redirect_from:
 </script>
 <br />
 ## INSTRUCTOR  <br />
-Department of Economics at WU Vienna University of Economics and Business, in English: <br />
+WU Vienna (AT), in English: <br />
  <br />
 ◾**Political Economy** (master)  <br />
 *Fall 2024, 2025* <br />
@@ -29,7 +29,7 @@ Department of Economics at WU Vienna University of Economics and Business, in En
 *Fall 2025* <br />
 
 ## ASSISTANT  <br />
-GSEM-GSI University of Geneva, in French and English:  
+University of Geneva (CH), in French and English:  
  <br />
 ◾**Coordination for Introduction to Microeconomic** (bachelor) <br />
 *Fall 2021* <br />

@@ -18,12 +18,6 @@ redirect_from:
 <br />
 **Research Interests:** Political Economy, Labour and Education Economics, Applied Microeconomics. <br />
 <br />
-## PUBLICATIONS
-◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** (w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/)) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
-▪ WP versions: [<span style="color:black">BSE Working Paper 1432</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) 
-<br />
-<br />
-<br />
 ## WORKING PAPERS
 ◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** ▪ [<span style="color:blue">draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
 ▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
@@ -36,8 +30,12 @@ redirect_from:
 <br />
 <br />
 ◾**The Persistence of the Sicilian Mafia** ▪ Draft coming soon <br />
-<br />
 <br /> 
+<br />
+<br />
+## PUBLICATIONS
+◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** (w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/)) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
+▪ WP versions: [<span style="color:black">BSE Working Paper 1432</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) 
 
 
 

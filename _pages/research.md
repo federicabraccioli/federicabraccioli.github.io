@@ -30,7 +30,6 @@ redirect_from:
 <br />
 <br />
 ◾**The Persistence of the Sicilian Mafia** ▪ Draft coming soon <br />
-<br /> 
 <br />
 <br />
 ## PUBLICATIONS

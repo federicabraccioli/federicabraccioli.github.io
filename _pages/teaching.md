@@ -25,9 +25,6 @@ WU Vienna (AT), in English: <br />
 ◾**History of Economic Thought** (bachelor) <br />
 *Fall 2024, Spring 2025, Fall 2025* <br />
 
-◾**Gender Economics** (master)  <br />
-*Fall 2025* <br />
-
 ## ASSISTANT  <br />
 University of Geneva (CH), in French and English:  
  <br />

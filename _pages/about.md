@@ -26,7 +26,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ Next talk: CERGEI-EI (Prague, CZ). <br />
+▪️ Next talk: Central European University (Vienna, AT). <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

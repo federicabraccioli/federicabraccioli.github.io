@@ -22,7 +22,6 @@ WU Vienna (AT), in English: <br />
 ◾**Political Economy** (master)  <br />
 *Fall 2024, 2025* <br />
 
- <br />
 ◾**Gender Economics** (master)  <br />
 *Fall 2025* <br />
 

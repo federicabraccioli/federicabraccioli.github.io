@@ -17,7 +17,7 @@ redirect_from:
 </script>
 <br />
 ## INSTRUCTOR  <br />
-WU Vienna (AT), in English: <br />
+@ WU Vienna (AT), in English: <br />
  <br />
 ◾**Political Economy** (master)  <br />
 *Fall 2024, 2025* <br />
@@ -28,20 +28,11 @@ WU Vienna (AT), in English: <br />
 ◾**History of Economic Thought** (bachelor) <br />
 *Fall 2024, Spring-Fall 2025* <br />
 
-## ASSISTANT  <br />
-University of Geneva (CH), in French and English:  
- <br />
-◾**Coordinator for Introduction to Microeconomics** (bachelor) <br />
-*Fall 2021* <br />
-
-◾**Introduction to Macroeconomics** (bachelor) <br />
-*Spring 2018, Fall 2019, Spring 2019* <br />
-
-◾**Introduction to International Economics** (bachelor) <br />
-*Spring 2018, Spring 2021* <br />
-
-◾**Introduction to Microeconomics** (bachelor) <br />
-*Fall 2017* <br />
- <br />
+## SUPERVISION  <br />
+◾**Master**: Patrik Manas <br />
+<br />
+<br />
+Previously I have been teacher assistant for various courses (In French and English) at Institute of Economics and Econometrics, University of Geneva (CH).
+<br />
 
 

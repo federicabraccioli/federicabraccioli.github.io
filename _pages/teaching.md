@@ -16,8 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
-## INSTRUCTOR  <br />
-@ WU Vienna (AT), in English: <br />
+I teach as main instructor the following courses in English at WU Vienna: <br />
  <br />
 ◾**Political Economy** (master)  <br />
 *Fall 2024, 2025* <br />

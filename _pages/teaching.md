@@ -32,7 +32,7 @@ redirect_from:
 ◾**Master**: Patrik Manas <br />
 <br />
 <br />
-Previously I have been teacher assistant for various courses (In French and English) at Institute of Economics and Econometrics, University of Geneva (CH).
+Previously I have been teacher assistant for different courses (in French and English) at Institute of Economics and Econometrics, University of Geneva (CH).
 <br />
 
 

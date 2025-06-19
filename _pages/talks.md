@@ -16,11 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
-**UPCOMING**  <br />
-<br />
-<br />
-<br />
-**PAST** (*as discussant) <br />
+(*as discussant) <br />
 <br />
 ◾**2025** INEQ @ WU Vienna <span style="color:gray">(Vienna, AT)</span>; Bolzano Applied Microeconomics Workshop 2025 <span style="color:gray">(Bolzano, IT)</span>; Central European University <span style="color:gray">(Vienna, AT)</span>; CERGE-EI <span style="color:gray">(Prague, CZ)</span>; IRLE @ UC Berkeley <span style="color:gray">(Berkeley, US)</span>. <br />
 <br />

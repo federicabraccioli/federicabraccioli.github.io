@@ -26,7 +26,7 @@ I teach as main instructor the following courses in English at WU Vienna: <br />
 ▪️ **Master**: Patrik Manas <br />
 <br />
 <br />
-Previously I have been teacher assistant for different courses (in French and English) at Institute of Economics and Econometrics, University of Geneva (CH).
+Previously I have been teacher assistant for different courses (in French and English) at the Institute of Economics and Econometrics, University of Geneva (CH).
 <br />
 
 

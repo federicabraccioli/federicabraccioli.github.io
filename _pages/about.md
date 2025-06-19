@@ -30,7 +30,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />
-▪️ I am co-founder of [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/). Follow [<span style="color:black">@RareVoicesEcon</span>](https://twitter.com/RareVoicesEcon). <br />
+▪️ I am a co-founder of [<span style="color:black">Rare Voices in Economics</span>](https://www.rarevoicesineconomics.com/). Follow [<span style="color:black">@RareVoicesEcon</span>](https://twitter.com/RareVoicesEcon). <br />
 ▪️ I am part of the [<span style="color:black">Women in PolEcon Network</span>](https://sites.google.com/view/women-in-polecon/). Follow/join us here: [<span style="color:black">@WomenInPolEcon</span>](https://twitter.com/WomenInPolEcon).
 <br />
 <br />

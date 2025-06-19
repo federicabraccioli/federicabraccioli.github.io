@@ -18,17 +18,14 @@ redirect_from:
 <br />
 I teach as main instructor the following courses in English at WU Vienna: <br />
  <br />
-◾**Political Economy** (master)  <br />
-*Fall 2024, 2025* <br />
+▪️ **Political Economy** (master): *Fall 2024, 2025*  <br />
 
-◾**Gender Economics** (master)  <br />
-*Fall 2025* <br />
+▪️ **Gender Economics** (master): *Fall 2025*  <br />
 
-◾**History of Economic Thought** (bachelor) <br />
-*Fall 2024, Spring-Fall 2025* <br />
+▪️ **History of Economic Thought** (bachelor): *Fall 2024, Spring-Fall 2025* <br />
 
-## SUPERVISION  <br />
-◾**Master**: Patrik Manas <br />
+## Supervision  <br />
+▪️ **Master**: Patrik Manas <br />
 <br />
 <br />
 Previously I have been teacher assistant for different courses (in French and English) at Institute of Economics and Econometrics, University of Geneva (CH).

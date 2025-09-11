@@ -19,8 +19,7 @@ redirect_from:
 ## European Economic Association 40th Congress
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://youtu.be/t-Cp466hOZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
-  gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Cp466hOZY?si=IEj2w_jKM21h-XEC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## The Playing Field in Academia 2023 (Warsaw, Poland) 

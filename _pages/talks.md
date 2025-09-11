@@ -16,7 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
-## UPCOMING (*as discussant) <br />
+## UPCOMING <br />
 - 2025/10/XX: Vienna Behavioral Circle @ Uni Wien (Vienna, AT) <br />
 - 2025/10/15: Central European University, Dept. Public Policy (Vienna, AT) <br />
 - 2025/10/24: Vienna Applied Workshop @ Uni Wien (Vienna, AT) <br />

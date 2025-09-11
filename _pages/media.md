@@ -19,7 +19,7 @@ redirect_from:
 ## European Economic Association 40th Congress
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="[https://www.youtube.com/embed/oIJvYm__y5w?si=JM1WwifVumS93SoR&amp;start=12677](https://youtu.be/t-Cp466hOZY)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+  <iframe width="560" height="315" src="https://youtu.be/t-Cp466hOZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
   gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 

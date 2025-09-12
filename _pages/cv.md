@@ -24,8 +24,9 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **Assistant Professor** – WU Vienna University of Economics and Business (Jul 2024 - present)
 
 ### ◾RESEARCH VISITS  <br />
-**2025** UC Berkeley and New York University (February) <br />
-**2024** CLEAN Bocconi (September); UCLA Anderson (May); Stanford GSB (April) <br />
+**2025** London School of Economics (Spring) <br />
+**2025** UC Berkeley (5 weeks); New York University (1 week) <br />
+**2024** CLEAN Bocconi (1 week); UCLA Anderson (1 week); Stanford GSB (2 weeks) <br />
 
 ### ◾EDUCATION <br />
 **Ph.D. in Economics** – University of Geneva, CH (2023) <br />

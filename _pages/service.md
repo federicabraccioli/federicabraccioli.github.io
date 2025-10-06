@@ -18,7 +18,10 @@ redirect_from:
 ## Referee
 ◾**2025** Journal of Institutional and Theoretical Economics  <br />
 ◾**2024** Oxford Bulletin of Economics and Statistics, Political Geography <br />
-◾**Conferences** 3rd Rare Voices in Economics, 2024 Spring Young Economist Meeting, Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
+
+## Conference committee
+◾**2025** Spring Young Economist Meeting  <br />
+◾**2024** 3rd Rare Voices in Economics, Spring Young Economist Meeting, Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
 
 ## IEE Ph.D. Mentoring Program (University of Geneva)
 ◾**Founder and co-organizer** with [<span style="color:black">Kyungbo Han</span>](https://sites.google.com/view/kyungbohan/) <br />

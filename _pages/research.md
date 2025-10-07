@@ -27,7 +27,9 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
 <br />
 <br />
-◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** ▪ [<span style="color:blue">draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
+◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
+<br />
+▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
 ▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
 <br />
 <br />
@@ -37,6 +39,7 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 ## PUBLICATIONS
 ◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** <br /> 
 w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
+<br />
 ▪ WP versions: [<span style="color:black">BSE Working Paper 1432</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) 
 
 

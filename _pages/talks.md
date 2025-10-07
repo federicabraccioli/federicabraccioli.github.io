@@ -17,10 +17,10 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2025/10/XX: Vienna Behavioral Circle @ Uni Wien (Vienna, AT) <br />
-- 2025/10/15: Central European University, Dept. Public Policy (Vienna, AT) <br />
+- 2025/10/16: Vienna Behavioral Circle @ Uni Wien (Vienna, AT) <br />
 - 2025/10/24: Vienna Applied Workshop @ Uni Wien (Vienna, AT) <br />
 - 2025/11/06: T-PEC @ King's College (London, UK) <br />
+- 2025/11/26: Central European University, Dept. Public Policy (Vienna, AT) <br />
 <br />
 ## PAST  <br />
 *(as discussant)* <br />

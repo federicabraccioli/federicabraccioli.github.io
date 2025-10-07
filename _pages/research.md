@@ -19,8 +19,9 @@ redirect_from:
 **Research Interests:** Political Economy, Labour and Education Economics, Applied Microeconomics. <br />
 <br />
 ## WORKING PAPERS
-◾**Education Expansion, College Choice and Labour Market Success** <br /> 
-w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0) *Submitted* <br />
+◾**Education Expansion, College Choice and Labour Market Success** *Submitted* <br /> 
+w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)  <br />
+<br />
 ▪ WP: [<span style="color:blue">CEPR DP 18712</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">CESifo WP No. 10842</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">BSE WP 1419</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success)  
 ▪ Project financed by the Swiss National Research Fund [<span style="color:black;">(grant 182228)</span>](https://data.snf.ch/grants/grant/182228) <br />
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
@@ -34,7 +35,7 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 <br />
 ## PUBLICATIONS
-◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** <br />  
+◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** <br /> 
 w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
 ▪ WP versions: [<span style="color:black">BSE Working Paper 1432</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) 
 

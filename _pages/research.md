@@ -33,8 +33,7 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 ## SELECTED WORK IN PROGRESS
 ◾**The Persistence of the Sicilian Mafia**  <br />
-<br />
-◾**From Stigma to Policy: The Decriminalization of Sex Work?** w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/)
+◾**From Stigma to Policy: The Decriminalization of Sex Work?** w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/) <br />
 <br />
 <br />
 ## PUBLICATIONS

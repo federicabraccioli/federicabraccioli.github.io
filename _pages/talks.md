@@ -17,15 +17,13 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2025/10/16: Vienna Behavioral Circle @ Uni Wien (Vienna, AT) <br />
-- 2025/10/24: Vienna Applied Workshop @ Uni Wien (Vienna, AT) <br />
 - 2025/11/06: T-PEC @ King's College (London, UK) <br />
-- 2025/11/26: Central European University, Dept. Public Policy (Vienna, AT) <br />
+- 2026/02/11: Central European University, Dept. Public Policy (Vienna, AT) <br />
 <br />
 ## PAST  <br />
 *(as discussant)* <br />
 <br />
-◾**2025** INEQ @ WU Vienna <span style="color:gray">(Vienna, AT)</span>; Bolzano Applied Microeconomics Workshop 2025 <span style="color:gray">(Bolzano, IT)</span>; Central European University <span style="color:gray">(Vienna, AT)</span>; CERGE-EI <span style="color:gray">(Prague, CZ)</span>; IRLE @ UC Berkeley <span style="color:gray">(Berkeley, US)</span>. <br />
+◾**2025** 3rd Vienna Applied Workshop @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; Vienna Behavioral Circle @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; INEQ @ WU Vienna <span style="color:gray">(Vienna, AT)</span>; Bolzano Applied Microeconomics Workshop 2025 <span style="color:gray">(Bolzano, IT)</span>; Central European University <span style="color:gray">(Vienna, AT)</span>; CERGE-EI <span style="color:gray">(Prague, CZ)</span>; IRLE @ UC Berkeley <span style="color:gray">(Berkeley, US)</span>. <br />
 <br />
 ◾**2024** WU Vienna Internal Seminar <span style="color:gray">(Vienna, AT)</span>; Vienna Applied Micro Economics Workshop <span style="color:gray">(Vienna, AT)</span>; London School of Economics PSPE <span style="color:gray">(London, UK)</span>; *XV Transatlantic Workshop on the Economics of Crime* <span style="color:gray">(Zurich, CH)</span>; CLEAN Bocconi <span style="color:gray">(Milano, IT)</span>; EEA-ESEM <span style="color:gray">(Rotterdam, NL)</span>; WEAI <span style="color:gray">(Seattle, US)</span>; Canadian Economic Association Conference <span style="color:gray">(Toronto, CA)</span>; Historical Political Economy Workshop <span style="color:gray">(Stanford, US)</span>; Al Capone Conference <span style="color:gray">(Cambridge, US)</span>; European Public Choice Society 2024 <span style="color:gray">(Vienna, AT)</span>; PhD Economics Virtual Seminar <span style="color:gray">(online)</span>; Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <span style="color:gray">(Paris, FR)</span>. <br />
 <br />

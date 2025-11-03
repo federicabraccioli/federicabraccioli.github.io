@@ -32,8 +32,9 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 <br />
 ## SELECTED WORK IN PROGRESS
-◾**The Persistence of the Sicilian Mafia**  <br />
+◾**Social Progress Narratives, Accountability and Trust in Institutions** w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/) [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) <br />
 ◾**From Stigma to Policy: The Decriminalization of Sex Work?** w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/) <br />
+◾**The Persistence of the Sicilian Mafia**  <br />
 <br />
 <br />
 ## PUBLICATIONS

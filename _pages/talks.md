@@ -19,6 +19,7 @@ redirect_from:
 ## UPCOMING <br />
 - 2025/11/06: T-PEC @ King's College (London, UK) <br />
 - 2026/02/11: Central European University, Dept. Public Policy (Vienna, AT) <br />
+- 2026/02/19: PEDD conference (Münster, GE) <br />
 <br />
 ## PAST  <br />
 *(as discussant)* <br />

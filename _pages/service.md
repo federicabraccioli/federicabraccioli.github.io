@@ -16,7 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 ## Referee
-◾**2025** Journal of Institutional and Theoretical Economics  <br />
+◾**2025** Journal of Law and Economics; Journal of Institutional and Theoretical Economics  <br />
 ◾**2024** Oxford Bulletin of Economics and Statistics, Political Geography <br />
 
 ## Conference committee

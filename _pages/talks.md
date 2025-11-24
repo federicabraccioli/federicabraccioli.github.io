@@ -19,6 +19,7 @@ redirect_from:
 ## UPCOMING <br />
 - 2026/02/11: Central European University, Dept. Public Policy (Vienna, AT) <br />
 - 2026/02/19: PEDD conference (Münster, GE) <br />
+- 2026/04/16: King's College London Econ Brownbag (London, UK) <br />
 <br />
 ## PAST *(as discussant)* <br />
 <br />

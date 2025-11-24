@@ -16,9 +16,14 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
+◾ **WU-Projects (WU Foundation)**  <br />
+WU Vienna University of Economics and Business  - *2025* <br />
+Project: Taboo and Policy <br />
+Amount: 24'820.46€ <br />
+<br />
 ◾ **WU International Research Fellow**  <br />
 WU Vienna University of Economics and Business  - *2024* <br />
-Amount: 4'000€ <br />
+Amount: 3'999€ <br />
 <br />
 ◾**[<span style="color:black">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />
 **European Economic Association Annual Congress 2023**  <br />

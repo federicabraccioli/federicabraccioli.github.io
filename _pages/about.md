@@ -22,7 +22,7 @@ I have been a short term visiting scholar at Stanford GSB, UCLA Anderson, UBocco
 <br />
 My research received the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award). <br />
  <br />
-My research on Political Economy focuses on contract enforcement institutions, organized crime, and its persistence. My work on Labour Economics concentrates on the effect of choosing a college major on labour market outcomes. Find out more about my research [<span style="color:black">here</span>](https://federicabraccioli.github.io/research/). <br />
+My research on Political Economy focuses on formal and informal institutions Find out more about my research [<span style="color:black">here</span>](https://federicabraccioli.github.io/research/). <br />
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />

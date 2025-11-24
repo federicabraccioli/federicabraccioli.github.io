@@ -26,7 +26,7 @@ My research on Political Economy focuses on contract enforcement institutions, o
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️ I will visit the London School of Economics during the Spring term 2026. <br />
+▪️ I will visit the London School of Economics during the Spring term 2026 hosted by Prof. Tim Besley. <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

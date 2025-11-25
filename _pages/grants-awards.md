@@ -23,7 +23,7 @@ Amount: 24'820.46€ <br />
 <br />
 ◾ **WU International Research Fellow**  <br />
 WU Vienna University of Economics and Business  - *2024* <br />
-or visiting IRLE @ UC Berkley and Dept. Economics @ NYU <br />
+For visiting IRLE @ UC Berkley and Dept. Economics @ NYU <br />
 Amount: 3'999€ <br />
 <br />
 ◾**[<span style="color:black">Young Economist Award</span>](https://www.eeassoc.org/awards/young-economist-award)** <br />

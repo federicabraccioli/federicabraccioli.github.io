@@ -16,7 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 <br />
-**Research Interests:** Political Economy, Labour and Education Economics, Applied Microeconomics. <br />
+**Research Interests:** Political Economy, Applied Microeconomics. <br />
 <br />
 ## WORKING PAPERS
 ◾**Education Expansion, College Choice and Labour Market Success** *Submitted* <br /> 

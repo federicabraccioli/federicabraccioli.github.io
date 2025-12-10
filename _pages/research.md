@@ -26,7 +26,7 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
 <br />
 <br />
-◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** <br /> w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) *Submitted*  <br />
+◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home)  <br />
 <br />
 <br />
 ◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />

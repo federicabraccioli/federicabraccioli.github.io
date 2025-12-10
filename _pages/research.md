@@ -26,13 +26,15 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
 <br />
 <br />
+◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** <br /> w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) *Submitted*  <br />
+<br />
+<br />
 ◾ **The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
 ▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
 ▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
 <br />
 <br />
 ## SELECTED WORK IN PROGRESS
-◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** <br /> w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) <br />
 ◾**From Stigma to Policy: The Decriminalization of Sex Work?** w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/) <br />
 ◾**The Persistence of the Sicilian Mafia**  <br />
 <br />

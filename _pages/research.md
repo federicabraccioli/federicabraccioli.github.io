@@ -19,16 +19,18 @@ redirect_from:
 **Research Interests:** Political Economy, Applied Microeconomics. <br />
 <br />
 ## WORKING PAPERS
-### Education Expansion, College Choice and Labour Market Success *Submitted* 
+◾**Education Expansion, College Choice and Labour Market Success** *Submitted* 
 w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)  <br />
 ▪ WP: [<span style="color:blue">CEPR DP 18712</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">CESifo WP No. 10842</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">BSE WP 1419</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success)  
 ▪ Project financed by the Swiss National Research Fund [<span style="color:black;">(grant 182228)</span>](https://data.snf.ch/grants/grant/182228) <br />
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
 <br />
-### Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions *Submitted*  <br /> 
+<br />
+◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) 
 <br />
-### The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not <br />
+<br />
+◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
 ▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
 ▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
 <br />

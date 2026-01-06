@@ -19,15 +19,15 @@ redirect_from:
 **Research Interests:** Political Economy, Applied Microeconomics. <br />
 <br />
 ## WORKING PAPERS
+◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
+▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
+▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
+<br />
+<br />
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home)  <br />
 ▪ WP: [<span style="color:blue">CEPR DP20902</span>](https://cepr.org/publications/dp20902) <br />
 ▪ Additional material: [<span style="color:blue">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf) [<span style="color:blue">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf)
-<br />
-<br />
-◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
-▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
-▪ <span style="color:black;">WINNER:</span> [<span style="color:black">Young Economist Award - EEA 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
 <br />
 <br />
 ◾**Education Expansion, College Choice and Labour Market Success** *Submitted* <br /> 

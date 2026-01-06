@@ -28,8 +28,8 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home)  <br />
-▪ Questionnaire: [<span style="color:blue">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf), [<span style="color:blue">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf) <br />
-▪ WP: [<span style="color:blue">CEPR DP20902</span>](https://cepr.org/publications/dp20902) 
+▪ WP: [<span style="color:blue">CEPR DP20902</span>](https://cepr.org/publications/dp20902) <br />
+▪ Additional material: [<span style="color:blue">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf) [<span style="color:blue">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf)
 <br />
 <br />
 ◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />

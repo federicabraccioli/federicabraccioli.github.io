@@ -26,13 +26,13 @@ redirect_from:
 <br /> 
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home)  <br />
-▪  Working Paper: [<span style="color:blue">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) ▪ [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp20902) <br />
+▪  Working Paper: [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp20902) ▪ [<span style="color:blue">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
 ▪ Additional material: [<span style="color:blue">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf) [<span style="color:blue">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf)
 <br />
 <br />
 ◾**Education Expansion, College Choice and Labour Market Success** *Submitted* <br /> 
 w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)  <br />
-▪ Working Paper: [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">CESifo</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">BSE</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success)  
+▪ Working Paper: [<span style="color:blue">BSE</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">CESifo</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) 
 ▪ Project financed by the Swiss National Research Fund [<span style="color:black;">(grant 182228)</span>](https://data.snf.ch/grants/grant/182228) <br />
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) 
 <br />

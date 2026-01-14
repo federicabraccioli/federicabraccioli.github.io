@@ -23,7 +23,7 @@ I teach as main instructor the following courses in English at WU Vienna: <br />
 ▪️ **History of Economic Thought** (bachelor): *Fall 2024, Spring-Fall 2025* <br />
 
 ## Supervision  <br />
-▪️ **Master**: Patrik Manas <br />
+▪️ **Master**: Niklas Andree (ongoing), Sara Hoxha (ongoing), Anna Kaufmann (ongoing), Emre Kurnaz (ongoing), Patrik Manas (ongoing). <br />
 <br />
 <br />
 Previously I have been teacher assistant for different courses (in French and English) at the Institute of Economics and Econometrics, University of Geneva (CH).

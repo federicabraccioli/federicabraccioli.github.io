@@ -17,11 +17,14 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2026/02/11: Central European University, Dept. Public Policy (Vienna, AT) <br />
 - 2026/02/19: PEDD conference (Münster, DE) <br />
+- 2026/04/08: WZB Econ Seminar (Berlin, DE) <br />
+- 2026/04/13: University of Lugano Junior Seminar (Lugano, CH)  <br />
 - 2026/04/16: King's College London Econ Brownbag (London, UK) <br />
-- 2026/05/07: Hartie School - Political Economy Lunch Seminar (Berlin, DE) <br />
+- 2026/05/07: Hertie School - Political Economy Lunch Seminar (Berlin, DE) <br />
 - 2026/09/17: NHH Norwegian School of Economics (Bergen, NO) <br />
+- *rescheduling* Central European University, Dept. Public Policy (Vienna, AT) <br />
+
 <br />
 ## PAST *(as discussant)* <br />
 <br />

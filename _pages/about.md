@@ -26,8 +26,9 @@ My research on Political Economy focuses on formal and informal institutions Fin
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️New WP: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf)
-▪️I will visit the London School of Economics during the Spring term 2026 hosted by Prof. Tim Besley. <br />
+▪️New WP: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
+▪️I will visit the Social Science Center Berlin WZB in March - April 2026. <br />
+▪️I will visit the London School of Economics in May - June 2026. <br />
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

@@ -22,7 +22,7 @@ I have been a short term visiting scholar at Stanford GSB, UCLA Anderson, UBocco
 <br />
 My research received the [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award). <br />
  <br />
-My research on Political Economy focuses on formal and informal institutions Find out more about my research [<span style="color:black">here</span>](https://federicabraccioli.github.io/research/). <br />
+I am a Political Economist broadly interested in institutions, both formal (e.g., democracy and institutional trust) and informal (e.g., organized crime, stigma, and taboo). In my research, I complement applied methods with theory and survey experiments. Find out more about my research [<span style="color:black">here</span>](https://federicabraccioli.github.io/research/). <br />
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />

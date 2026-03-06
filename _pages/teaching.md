@@ -20,7 +20,7 @@ I teach as main instructor the following courses in English at WU Vienna: <br />
  <br />
 ▪️ **Political Economy** (master): *Fall 2024, 2025*  <br />
 ▪️ **Gender Economics** (master): *Fall 2025*  <br />
-▪️ **History of Economic Thought** (bachelor): *Fall 2024, Spring-Fall 2025* <br />
+▪️ **Political Economy** (bachelor): *Fall 2024, Spring-Fall 2025* <br />
 
 ## Supervision  <br />
 ▪️ **Master**: Niklas Andree (ongoing), Sara Hoxha (ongoing), Anna Kaufmann (ongoing), Emre Kurnaz (ongoing), Patrik Manas (ongoing). <br />

@@ -17,7 +17,6 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2026/02/19: PEDD conference (Münster, DE) <br />
 - 2026/04/08: WZB Econ Seminar (Berlin, DE) <br />
 - 2026/04/13: University of Lugano Junior Seminar (Lugano, CH)  <br />
 - 2026/04/16: King's College London Econ Brownbag (London, UK) <br />
@@ -27,6 +26,8 @@ redirect_from:
 
 <br />
 ## PAST *(as discussant)* <br />
+<br />
+◾**2026** PEDD conference <span style="color:gray">(Münster, DE)</span>.
 <br />
 ◾**2025** T-PEC @ King's College <span style="color:gray">(London, UK)</span>; 3rd Vienna Applied Workshop @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; Vienna Behavioral Circle @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; INEQ @ WU Vienna <span style="color:gray">(Vienna, AT)</span>; Bolzano Applied Microeconomics Workshop 2025 <span style="color:gray">(Bolzano, IT)</span>; Central European University <span style="color:gray">(Vienna, AT)</span>; CERGE-EI <span style="color:gray">(Prague, CZ)</span>; IRLE @ UC Berkeley <span style="color:gray">(Berkeley, US)</span>. <br />
 <br />

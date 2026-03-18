@@ -20,8 +20,8 @@ redirect_from:
 <br />
 ## WORKING PAPERS
 ◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
-▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) <br />
-▪ [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award) 
+▪ [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award) <br />
+▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
 <br />
 <br /> 
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** *Submitted*  <br /> 

@@ -16,7 +16,7 @@ redirect_from:
   gtag('config', 'G-ER87WNKQCE');
 </script>
 ## Editorial positions
-◾**2026-present** Co-Editor of [<span style="color:blue">Economics</span>](https://www.degruyterbrill.com/journal/key/econ/html) (De Gruyter) <br /> 
+◾**2026-present** Co-Editor of [<span style="color:black">Economics</span>](https://www.degruyterbrill.com/journal/key/econ/html) (De Gruyter) <br /> 
 
 ## Referee
 ◾**2025** Journal of Law and Economics, Journal of Institutional and Theoretical Economics.  <br />

@@ -27,7 +27,7 @@ I am a Political Economist broadly interested in institutions, both formal (e.g.
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
 ▪️New WP: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
-▪️I will visit the Social Science Center Berlin WZB in March - April 2026. <br />
+▪️I will visit the [<span style="color:black">Social Science Center Berlin WZB</span>](https://www.wzb.eu/en/persons/federica-braccioli) in March - April 2026. <br /> 
 ▪️I will visit the London School of Economics in May - June 2026. <br />
 <br />
 <br />

@@ -39,6 +39,9 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 ## SELECTED WORK IN PROGRESS
 ◾**Stigma and Policy Preferences in Taboo Markets: Sex Work Decriminalization** w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/) <br />
+▪ Pre-registration: AEARCTR-001789 <br />
+▪ Data collection completed.  <br />
+<br />
 ◾**The Persistence of the Sicilian Mafia**  <br />
 <br />
 <br />

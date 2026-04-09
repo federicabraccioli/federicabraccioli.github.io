@@ -23,8 +23,14 @@ redirect_from:
 ◾**2024** Oxford Bulletin of Economics and Statistics, Political Geography. <br />
 
 ## Conference committee
+◾**2026** 3rd Transatlantic Political Economy Conference, 5th Women in Political Economy Workshop <br />
 ◾**2025** Spring Young Economist Meeting  <br />
 ◾**2024** 3rd Rare Voices in Economics, Spring Young Economist Meeting, Workshop On Networks And Political Economy @ Paris 1 Panthéon-Sorbonne <br />
+
+## Conference organization
+◾**2026** Co-organizer [<span style="color:black">5th Women in Political Economy Workshop</span>](https://sites.google.com/view/women-in-polecon/workshops?authuser=0) <br />
+◾**2021** Co-organizer [<span style="color:black">1st Rare Voices in Economics Conference</span>](https://www.rarevoicesineconomics.com/previouseditions) <br />
+◾**2020** Co-organizer Women in Economics Workshops Series <br />
 
 ## Other
 ◾**2020-2022** Founder and co-organizer Ph.D. Mentoring Program (IEE-GSEM University of Geneva) <br />

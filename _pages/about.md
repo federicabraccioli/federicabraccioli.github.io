@@ -29,6 +29,8 @@ I am a Political Economist broadly interested in institutions, both formal (e.g.
 ▪️New WP: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
 ▪️I will visit the [<span style="color:black">Social Science Center Berlin WZB</span>](https://www.wzb.eu/en/persons/federica-braccioli) in March - April 2026. <br /> 
 ▪️I will visit the London School of Economics in May - June 2026. <br />
+▪️I am co-organizing the [<span style="color:black">5th Women in Political Economy Workshop</span>](https://sites.google.com/view/women-in-polecon/workshops?authuser=0). Deadline to submit a paper: May 31, 2026. <br /> 
+
 <br />
 <br />
 <span style="color:black">**DIVERSITY:**</span> <br />

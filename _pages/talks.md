@@ -19,6 +19,7 @@ redirect_from:
 ## UPCOMING <br />
 - 2026/05/07: Hertie School - Political Economy Lunch Seminar (Berlin, DE) <br />
 - 2026/06/11-12: Barcelona School of Economics Summer Forum (Barcelona, ES) <br />
+- 2026/07/13-15: 30th Annual SIOE Conference (Fontainebleau, FR) <br />
 - 2026/09/17: NHH Norwegian School of Economics (Bergen, NO) <br />
 - *rescheduling* Central European University, Dept. Public Policy (Vienna, AT) <br />
 

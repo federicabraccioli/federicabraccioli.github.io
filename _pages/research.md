@@ -21,20 +21,20 @@ redirect_from:
 ## WORKING PAPERS
 ◾**The Institutional Role of the Italian Mafia: Enforcing Contracts When the State Does Not** <br />
 ▪ [<span style="color:black">European Economic Association Young Economist Award 2023</span>](https://www.eeassoc.org/awards/young-economist-award) <br />
-▪ [<span style="color:purple">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
+▪ [<span style="color:blue">JM draft</span>](https://federicabraccioli.github.io/files/Braccioli_MafiaInstitution_JMP.pdf) 
 <br />
 <br /> 
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home)  <br />
 ▪  Pre-registration: AEARCTR-0015328  <br />
-▪  Working Paper: [<span style="color:purple">CEPR</span>](https://cepr.org/publications/dp20902) ▪ [<span style="color:purple">LEMMA</span>]([https://cepr.org/publications/dp20902](http://lemma.u-paris2.fr/sites/default/files/LEMMA%20WP%202025%2013%20Braccioli%20Daniele%20Martinangeli.pdf)) ▪ [<span style="color:purple">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
-▪ Additional material: [<span style="color:purple">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf) [<span style="color:purple">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf) <br />
+▪  Working Paper: [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp20902) ▪ [<span style="color:blue">LEMMA</span>]([https://cepr.org/publications/dp20902](http://lemma.u-paris2.fr/sites/default/files/LEMMA%20WP%202025%2013%20Braccioli%20Daniele%20Martinangeli.pdf)) ▪ [<span style="color:blue">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
+▪ Additional material: [<span style="color:blue">main survey</span>](https://federicabraccioli.github.io/files/neg_narr_survey.pdf) [<span style="color:blue">follow-up</span>](https://federicabraccioli.github.io/files/neg_narr_followup.pdf) <br />
 ▪ *Submitted* 
 <br />
 <br />
 ◾**Education Expansion, College Choice and Labour Market Success** <br /> 
 w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh50.html), [<span style="color:black">S. Moriconi</span>](https://www.ieseg.fr/en/faculty-and-research/professor/?id=2877), [<span style="color:black">C. Naguib</span>](https://costanzanaguib.wixsite.com/mysite), [<span style="color:black">M. Pellizzari</span>](https://sites.google.com/site/mipellizzari/home?authuser=0)  <br />
-▪ Working Paper: [<span style="color:purple">BSE</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:purple">CEPR</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:purple">CESifo</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) <br />
+▪ Working Paper: [<span style="color:blue">BSE</span>](https://bse.eu/research/working-papers/education-expansion-college-choice-and-labour-market-success) ▪ [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp18712) ▪ [<span style="color:blue">CESifo</span>](https://cesifo.org/en/publications/2023/working-paper/education-expansion-college-choice-and-labour-market-success) <br />
 ▪ Project financed by the Swiss National Research Fund [<span style="color:black;">(grant 182228)</span>](https://data.snf.ch/grants/grant/182228) <br />
 ▪ Media coverage: [<span style="color:black">VoxEu column</span>](https://cepr.org/voxeu/columns/education-expansion-college-choice-and-labour-market-success), [<span style="color:black">lavoce.info</span>](https://lavoce.info/archives/104512/se-luniversita-e-vicina-piu-donne-scelgono-le-lauree-stem/) <br />
 ▪ *Submitted* 
@@ -52,7 +52,7 @@ w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/)
 <br />
 ## PUBLICATIONS
 ◾**The Taxing Challenges of the State: Unveiling the Role of Fiscal & Administrative Capacity in Development** <br /> 
-w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/) [<span style="color:purple">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
+w/ [<span style="color:black">E. Muñoz-Sobrado</span>](https://www.munozsobrado.com/), [<span style="color:black">A. Piolatto</span>](https://sites.google.com/site/piolatto/), [<span style="color:black">A. Zerbini</span>](https://www.antoinezerbini.com/) [<span style="color:blue">CESifo Economic Studies, 2024</span>](https://academic.oup.com/cesifo/advance-article/doi/10.1093/cesifo/ifae025/7997595?login=true) <br />
 ▪ WP versions: [<span style="color:black">BSE</span>](https://bse.eu/research/working-papers/taxing-challenges-state-unveiling-role-fiscal-administrative-capacity) 
 
 

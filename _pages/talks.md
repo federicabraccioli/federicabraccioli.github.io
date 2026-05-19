@@ -17,7 +17,7 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2026/06/11-12: Barcelona School of Economics Summer Forum (Barcelona, ES) <br />
+- 2026/06/11-12: [<span style="color:black">Barcelona School of Economics Summer Forum</span>](https://bse.eu/summer-forum/workshops/public-economics) (Barcelona, ES) <br />
 - 2026/07/13-15: 30th Annual SIOE Conference (Fontainebleau, FR) <br />
 - 2026/09/08-09: [<span style="color:black">Behavioral Public Economics and Political Economy</span>](https://bepe.univie.ac.at/) (Vienna, AT) <br />
 - 2026/09/15: NHH Norwegian School of Economics, FAIR (Bergen, NO) <br />

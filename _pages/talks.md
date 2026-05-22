@@ -22,6 +22,7 @@ redirect_from:
 - 2026/09/08-09: [<span style="color:black">Behavioral Public Economics and Political Economy</span>](https://bepe.univie.ac.at/) (Vienna, AT) <br />
 - 2026/09/15: NHH Norwegian School of Economics, FAIR (Bergen, NO) <br />
 - 2026/09/17: NHH Norwegian School of Economics, Dept. Management (Bergen, NO) <br />
+- 2026/10/7-9: [<span style="color:black">2nd Annual Interdisciplinary WZB Conference 2026</span>](https://cepr.org/events/2nd-annual-interdisciplinary-wzb-conference-2026) (Berlin, DE) <br />
 - *rescheduling* Central European University, Dept. Public Policy (Vienna, AT) <br />
 
 <br />

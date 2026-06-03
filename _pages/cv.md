@@ -23,8 +23,8 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 ### ◾CURRENT EMPLOYMENT  <br />
 **Assistant Professor** – WU Vienna University of Economics and Business (Jul 2024 - present)
 
-### ◾RESEARCH VISITS (*scheduled*) <br />
-**2026** *Social Science Center Berlin WZB (March - April); London School of Economics (May - June)* <br />
+### ◾RESEARCH VISITS <br />
+**2026** Social Science Center Berlin WZB (2 months); London School of Economics (5 weeks) <br />
 **2025** UC Berkeley (4 weeks); New York University (1 week) <br />
 **2024** Stanford GSB (2 weeks); UCLA Anderson (1 week); CLEAN Bocconi (1 week) <br />
 

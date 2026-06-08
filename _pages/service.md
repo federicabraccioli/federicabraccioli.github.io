@@ -19,8 +19,7 @@ redirect_from:
 ◾**2026-present** co-Editor of [<span style="color:black">Economics</span>](https://www.degruyterbrill.com/journal/key/econ/html) (De Gruyter) <br /> 
 
 ## Referee
-◾**2025** Journal of Law and Economics, Journal of Institutional and Theoretical Economics.  <br />
-◾**2024** Oxford Bulletin of Economics and Statistics, Political Geography. <br />
+ Journal of Labor Economics, Journal of Law and Economics, Journal of Institutional and Theoretical Economics, Oxford Bulletin of Economics and Statistics, Political Geography. <br />
 
 ## Conference committee
 ◾**2026** 3rd Transatlantic Political Economy Conference, 5th Women in Political Economy Workshop <br />

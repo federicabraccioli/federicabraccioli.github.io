@@ -24,7 +24,7 @@ You can download my full CV [<span style="color:blue">here</span>](https://feder
 **Assistant Professor** – WU Vienna University of Economics and Business (Jul 2024 - present)
 
 ### ◾RESEARCH VISITS <br />
-**2026** Social Science Center Berlin WZB (2 months); London School of Economics (5 weeks); DIW Berlin (2 months) <br />
+**2026** Social Science Center Berlin WZB (2 months); London School of Economics (5 weeks); DIW Berlin (2 months)  <br />
 **2025** UC Berkeley (4 weeks); New York University (1 week) <br />
 **2024** Stanford GSB (2 weeks); UCLA Anderson (1 week); CLEAN Bocconi (1 week) <br />
 

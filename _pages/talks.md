@@ -17,7 +17,6 @@ redirect_from:
 </script>
 <br />
 ## UPCOMING <br />
-- 2026/07/13-15: 30th Annual SIOE Conference (Fontainebleau, FR) <br />
 - 2026/09/08-09: [<span style="color:black">Behavioral Public Economics and Political Economy</span>](https://bepe.univie.ac.at/) (Vienna, AT) <br />
 - 2026/09/15: NHH Norwegian School of Economics, FAIR (Bergen, NO) <br />
 - 2026/09/17: NHH Norwegian School of Economics, Dept. Management (Bergen, NO) <br />
@@ -27,7 +26,7 @@ redirect_from:
 <br />
 ## PAST *(as discussant)* <br />
 <br />
-◾**2026** [<span style="color:black">Barcelona School of Economics Summer Forum</span>](https://bse.eu/summer-forum/workshops/public-economics) <span style="color:gray">(Barcelona, ES)</span>; Political Economy Lunch Seminar @ Hertie School <span style="color:gray">(Berlin, DE)</span>; King's College London Econ Brownbag <span style="color:gray">(London, UK)</span>; University of Lugano Junior Seminar <span style="color:gray">(Lugano, CH)</span>; WZB Econ Seminar <span style="color:gray">(Berlin, DE)</span>; PEDD conference <span style="color:gray">(Münster, DE)</span>. <br />
+◾**2026** 30th Annual SIOE Conference (Fontainebleau, FR); [<span style="color:black">Barcelona School of Economics Summer Forum</span>](https://bse.eu/summer-forum/workshops/public-economics) <span style="color:gray">(Barcelona, ES)</span>; Political Economy Lunch Seminar @ Hertie School <span style="color:gray">(Berlin, DE)</span>; King's College London Econ Brownbag <span style="color:gray">(London, UK)</span>; University of Lugano Junior Seminar <span style="color:gray">(Lugano, CH)</span>; WZB Econ Seminar <span style="color:gray">(Berlin, DE)</span>; PEDD conference <span style="color:gray">(Münster, DE)</span>. <br />
 <br />
 ◾**2025** T-PEC @ King's College <span style="color:gray">(London, UK)</span>; 3rd Vienna Applied Workshop @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; Vienna Behavioral Circle @ Uni Wien <span style="color:gray">(Vienna, AT)</span>; INEQ @ WU Vienna <span style="color:gray">(Vienna, AT)</span>; Bolzano Applied Microeconomics Workshop 2025 <span style="color:gray">(Bolzano, IT)</span>; Central European University <span style="color:gray">(Vienna, AT)</span>; CERGE-EI <span style="color:gray">(Prague, CZ)</span>; IRLE @ UC Berkeley <span style="color:gray">(Berkeley, US)</span>. <br />
 <br />

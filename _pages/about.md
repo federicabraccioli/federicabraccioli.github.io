@@ -26,7 +26,7 @@ I am a Political Economist broadly interested in institutions, both formal (e.g.
 <br />
 <br />
 <span style="color:blue">**NEWS:**</span> <br />
-▪️New WP: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
+▪️New version: [<span style="color:blue">Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions</span>](https://federicabraccioli.github.io/files/breaking_negative_narratives_2026.pdf) <br />
 ▪️I will be visiting DIW Berlin in July and August 2026. <br /> 
 ▪️I am co-organizing the [<span style="color:black">5th Women in Political Economy Workshop</span>](https://sites.google.com/view/women-in-polecon/workshops?authuser=0) at WU Vienna. Deadline to submit a paper: May 31, 2026. <br /> 
 

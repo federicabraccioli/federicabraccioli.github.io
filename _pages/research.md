@@ -25,8 +25,7 @@ redirect_from:
 <br /> 
 ◾**Breaking Negative Narratives: Long-term Social Progress and Trust in Institutions** <br /> 
 w/ [<span style="color:black">G. Daniele</span>](https://www.gianmarcodaniele.com/), [<span style="color:black">A. F.M. Martinangeli</span>](https://sites.google.com/view/andreamartinangeli/home) ▪ *Revise and Resubmit, Economic Journal* <br />
-▪  Working Paper: [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp20902) ▪ [<span style="color:blue">LEMMA</span>]([https://cepr.org/publications/dp20902](http://lemma.u-paris2.fr/sites/default/files/LEMMA%20WP%202025%2013%20Braccioli%20Daniele%20Martinangeli.pdf)) ▪ [<span style="color:blue">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
-▪ New version: [<span style="color:blue">link</span>](https://federicabraccioli.github.io/files/breaking_negative_narratives_2026.pdf) <br />
+▪ New version: [<span style="color:blue">link</span>](https://federicabraccioli.github.io/files/breaking_negative_narratives_2026.pdf) ▪  Working Paper: [<span style="color:blue">CEPR</span>](https://cepr.org/publications/dp20902) ▪ [<span style="color:blue">LEMMA</span>]([https://cepr.org/publications/dp20902](http://lemma.u-paris2.fr/sites/default/files/LEMMA%20WP%202025%2013%20Braccioli%20Daniele%20Martinangeli.pdf)) ▪ [<span style="color:blue">WU</span>](https://research.wu.ac.at/ws/portalfiles/portal/80525537/WP393.pdf) <br />
 ▪ Additional material: [<span style="color:blue">surveys (EN)</span>](https://federicabraccioli.github.io/files/neg_narr_main_followup_survey_en.pdf) [<span style="color:blue">surveys (ITA)</span>](https://federicabraccioli.github.io/files//neg_narr_main_followup_survey_it.pdf)
 <br />
 <br />

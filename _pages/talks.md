@@ -19,6 +19,7 @@ redirect_from:
 ## UPCOMING <br />
 - 2026/10/7-9: [<span style="color:black">2nd Annual Interdisciplinary WZB Conference 2026</span>](https://cepr.org/events/2nd-annual-interdisciplinary-wzb-conference-2026) (Berlin, DE) <br />
 - 2026/10/30-31: Eighth UniBZ Workshop on Political Economy, Free University of Bozen-Bolzano (Bruneck, IT)  <br />
+- 2027/02/15: Radbound University (Nijmegen, NL) <br />
 - *rescheduling* Central European University, Dept. Public Policy (Vienna, AT) <br />
 
 <br />

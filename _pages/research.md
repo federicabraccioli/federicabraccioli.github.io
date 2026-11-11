@@ -36,7 +36,7 @@ w/ [<span style="color:black">P. Ghinetti</span>](https://ideas.repec.org/e/pgh5
 <br />
 <br />
 ## SELECTED WORK IN PROGRESS
-◾**Why Illegal? Facts, Stigma, and Preferences over SexWork Regulation** <br />
+◾**Why Illegal? Facts, Stigma, and Preferences over Sex Work Regulation** <br />
 w/ [<span style="color:black">S. Tijani</span>](https://sannahtijani.github.io/) ▪ *Draft coming soon* <br />
 <br />
 ◾**The Persistence of the Sicilian Mafia**  <br />
